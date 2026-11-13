@@ -74,9 +74,9 @@ services:
       GENERATOR_PROFILE: ${GENERATOR_PROFILE:-starter}
       ARTIFACTS_DIR: /app/artifacts
       SQL_DIR: /app/sql
+      PYTHONPATH: /app
     volumes:
-      - ./artifacts:/app/artifacts
-      - ./sql:/app/sql
+      - .:/app
     networks:
       - traceflow_network
 
@@ -111,8 +111,9 @@ services:
     environment:
       DATABASE_URL: ${DATABASE_URL:-postgresql://traceflow_user:traceflow_secure_password@db:5432/traceflow_db}
       ARTIFACTS_DIR: /app/artifacts
+      PYTHONPATH: /app
     volumes:
-      - ./artifacts:/app/artifacts
+      - .:/app
     networks:
       - traceflow_network
     depends_on:
@@ -130,15 +131,15 @@ services:
     environment:
       DATABASE_URL: ${DATABASE_URL:-postgresql://traceflow_user:traceflow_secure_password@db:5432/traceflow_db}
       ARTIFACTS_DIR: /app/artifacts
+      PYTHONPATH: /app
     volumes:
-      - ./artifacts:/app/artifacts
-      - ./tests:/app/tests
+      - .:/app
     networks:
       - traceflow_network
     depends_on:
       db:
         condition: service_healthy
-    entrypoint: ["sh", "-c", "echo 'Test runner container ready.'"]
+    entrypoint: ["pytest"]
 
 volumes:
   pgdata:

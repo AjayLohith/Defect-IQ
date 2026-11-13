@@ -1,0 +1,47 @@
+[
+  {
+    "allowed_machine_type": "CNC_MILL",
+    "is_quality_gate": false,
+    "process_step_id": "STEP-0001",
+    "standard_cycle_time_seconds": 120,
+    "step_name": "Precision CNC Machining",
+    "step_sequence": 1,
+    "step_type": "FABRICATION"
+  },
+  {
+    "allowed_machine_type": "SMT_PICK_PLACE",
+    "is_quality_gate": false,
+    "process_step_id": "STEP-0002",
+    "standard_cycle_time_seconds": 45,
+    "step_name": "Sub-Assembly Insertion",
+    "step_sequence": 2,
+    "step_type": "ASSEMBLY"
+  },
+  {
+    "allowed_machine_type": "LASER_WELDER",
+    "is_quality_gate": true,
+    "process_step_id": "STEP-0003",
+    "standard_cycle_time_seconds": 90,
+    "step_name": "Structural Laser Welding",
+    "step_sequence": 3,
+    "step_type": "ASSEMBLY"
+  },
+  {
+    "allowed_machine_type": "INJECTION_MOLD",
+    "is_quality_gate": false,
+    "process_step_id": "STEP-0004",
+    "standard_cycle_time_seconds": 180,
+    "step_name": "Protective Polymer Coating",
+    "step_sequence": 4,
+    "step_type": "TREATMENT"
+  },
+  {
+    "allowed_machine_type": "OPTICAL_INSPECTOR",
+    "is_quality_gate": true,
+    "process_step_id": "STEP-0005",
+    "standard_cycle_time_seconds": 60,
+    "step_name": "Automated Quality Gate Testing",
+    "step_sequence": 5,
+    "step_type": "TESTING"
+  }
+]

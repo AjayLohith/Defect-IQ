@@ -1,0 +1,239 @@
+{
+  "base_epoch": "2026-01-01T00:00:00Z",
+  "dataset_profile": "starter",
+  "file_count": 35,
+  "files": {
+    "csv/bom_lines.csv": {
+      "line_count": 31,
+      "row_count": 30,
+      "sha256": "f4b2d2a9905b2c8b3729890a68e0320a87032aa1967fbd2203afa31270aefd38",
+      "size_bytes": 2016
+    },
+    "csv/boms.csv": {
+      "line_count": 11,
+      "row_count": 10,
+      "sha256": "8cd36c47dd10629ddaa7b0f3a96fe6da86e708a5ba56fff455528add280e43d0",
+      "size_bytes": 504
+    },
+    "csv/capa_verifications.csv": {
+      "line_count": 0,
+      "row_count": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0
+    },
+    "csv/containment_actions.csv": {
+      "line_count": 0,
+      "row_count": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0
+    },
+    "csv/corrective_actions.csv": {
+      "line_count": 0,
+      "row_count": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0
+    },
+    "csv/defects.csv": {
+      "line_count": 0,
+      "row_count": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0
+    },
+    "csv/inspection_plans.csv": {
+      "line_count": 21,
+      "row_count": 20,
+      "sha256": "334b0e28de4684d1c985ee77d60c53ee5ef0f9987d66f55a55800e9e01f206ad",
+      "size_bytes": 3333
+    },
+    "csv/inspection_results.csv": {
+      "line_count": 401,
+      "row_count": 400,
+      "sha256": "503caf5f7b8ff0aba715c4cac6a4c8327171779e64c14b1227ccdc7c67126706",
+      "size_bytes": 54258
+    },
+    "csv/machines.csv": {
+      "line_count": 11,
+      "row_count": 10,
+      "sha256": "0bfb368e2019e9a4e1f1ae67e11afea66f92736d275221f286c8f9fb55701a25",
+      "size_bytes": 1062
+    },
+    "csv/material_consumptions.csv": {
+      "line_count": 601,
+      "row_count": 600,
+      "sha256": "579a332d0d0efae61313c846ce020e4e726687f3ef2042a3ce0f64d2d09d7bb1",
+      "size_bytes": 65450
+    },
+    "csv/material_lots.csv": {
+      "line_count": 101,
+      "row_count": 100,
+      "sha256": "d172cb4de5a33c463ae342027f470702898e9cc598357e89e92f72a4489d20f5",
+      "size_bytes": 13801
+    },
+    "csv/process_executions.csv": {
+      "line_count": 1001,
+      "row_count": 1000,
+      "sha256": "2b8f38fca3b2804638ff077f82d1f3411e7a81cf58c09d8575e01cae90c33188",
+      "size_bytes": 141996
+    },
+    "csv/process_steps.csv": {
+      "line_count": 6,
+      "row_count": 5,
+      "sha256": "b3d8f6f5d78622417efc609af90da9bc7a8186ef1898ae123b21af7309d6e5c8",
+      "size_bytes": 468
+    },
+    "csv/production_orders.csv": {
+      "line_count": 201,
+      "row_count": 200,
+      "sha256": "2bb65dbe37cca6124fdfb8a536275c0e9c593d7e692efa5c270d09575a976e57",
+      "size_bytes": 25823
+    },
+    "csv/products.csv": {
+      "line_count": 21,
+      "row_count": 20,
+      "sha256": "63e3938398e61c3cd21e0f5bbd4f8de5905463d67a51f96eb43699447b3a3ade",
+      "size_bytes": 2530
+    },
+    "csv/state_events.csv": {
+      "line_count": 995,
+      "row_count": 994,
+      "sha256": "8e6db3555f3264dd4a8f84c6661690368d453e72dcfccf80d6caa4d3b57a149f",
+      "size_bytes": 190639
+    },
+    "csv/suppliers.csv": {
+      "line_count": 11,
+      "row_count": 10,
+      "sha256": "4a20acd2d0b76086c3dd24909c990bbd078cad07ef634f7cb82ffac60dbadec4",
+      "size_bytes": 999
+    },
+    "json/bom_lines.json": {
+      "line_count": 332,
+      "row_count": 30,
+      "sha256": "680d79f713c10893b033f20d7a3ba639686812296de277e66fab717446130b59",
+      "size_bytes": 8492
+    },
+    "json/boms.json": {
+      "line_count": 82,
+      "row_count": 10,
+      "sha256": "c45c8c3c4e9a628b9754db324cd6d6bcf0c4a297d1d142f6d6a49c1630bc257a",
+      "size_bytes": 1872
+    },
+    "json/capa_verifications.json": {
+      "line_count": 1,
+      "row_count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "size_bytes": 2
+    },
+    "json/containment_actions.json": {
+      "line_count": 1,
+      "row_count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "size_bytes": 2
+    },
+    "json/corrective_actions.json": {
+      "line_count": 1,
+      "row_count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "size_bytes": 2
+    },
+    "json/defects.json": {
+      "line_count": 1,
+      "row_count": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "size_bytes": 2
+    },
+    "json/inspection_plans.json": {
+      "line_count": 242,
+      "row_count": 20,
+      "sha256": "931b419b18f3f6d812a96093517ca7aa215900689b3e92e2a884b473c8735d02",
+      "size_bytes": 8552
+    },
+    "json/inspection_results.json": {
+      "line_count": 6402,
+      "row_count": 400,
+      "sha256": "1693e7a06dcc13f089edbed4a1a861c86d4e11a708f64db938c0b813ec076f09",
+      "size_bytes": 206812
+    },
+    "json/machines.json": {
+      "line_count": 92,
+      "row_count": 10,
+      "sha256": "d01c51f256ee33640feb242b1723f8b175d1ad69413d684f14deaa3840ef259f",
+      "size_bytes": 2778
+    },
+    "json/material_consumptions.json": {
+      "line_count": 6002,
+      "row_count": 600,
+      "sha256": "9a6b7fe62e89b43fd738a9e04ca16b197c287831bfd2793fe45b552818bfe4f8",
+      "size_bytes": 186536
+    },
+    "json/material_lots.json": {
+      "line_count": 1602,
+      "row_count": 100,
+      "sha256": "515ac984dc2a8f7f3bf9e12b26e0da10f7a0fb3e7222ecba91a4c937cab9dd86",
+      "size_bytes": 49777
+    },
+    "json/process_executions.json": {
+      "line_count": 16002,
+      "row_count": 1000,
+      "sha256": "0adb077bd37893964038301ec8e5c649272c987db9b80f0ebc537e5631850f2e",
+      "size_bytes": 515758
+    },
+    "json/process_steps.json": {
+      "line_count": 47,
+      "row_count": 5,
+      "sha256": "b89e1e77317edb54956df329801f3fcc876efac9350dcfc86fd45aacd06fa79e",
+      "size_bytes": 1290
+    },
+    "json/production_orders.json": {
+      "line_count": 3202,
+      "row_count": 200,
+      "sha256": "6d5f9f2caeb38cf31e6dbfd0afba709effc8c682f2a17c11a434a08cdea29b87",
+      "size_bytes": 100857
+    },
+    "json/products.json": {
+      "line_count": 242,
+      "row_count": 20,
+      "sha256": "b29c282fe8d044027eb683c6e7b4c810dc9e1a8d161a7df17a8c0f3f9797117a",
+      "size_bytes": 7126
+    },
+    "json/state_events.json": {
+      "line_count": 16900,
+      "row_count": 994,
+      "sha256": "c573c75f52fd2245754733c93667d1386c4c7676a00f4b1a78d8a01c94dd5c9b",
+      "size_bytes": 562787
+    },
+    "json/suppliers.json": {
+      "line_count": 102,
+      "row_count": 10,
+      "sha256": "34564626b1faa4111b86caa1ba34ec397bb5fd269919df6400c95301d93ffd5e",
+      "size_bytes": 3042
+    },
+    "sql/seed.sql": {
+      "line_count": 3494,
+      "row_count": 3399,
+      "sha256": "4682dc9085236064282bcc3003afd40399e66c985495f51ebea9e82f3df8577f",
+      "size_bytes": 640602
+    }
+  },
+  "manifest_version": "1.1.0",
+  "master_seed": 20261022,
+  "table_row_counts": {
+    "bom_lines": 30,
+    "boms": 10,
+    "capa_verifications": 0,
+    "containment_actions": 0,
+    "corrective_actions": 0,
+    "defects": 0,
+    "inspection_plans": 20,
+    "inspection_results": 400,
+    "machines": 10,
+    "material_consumptions": 600,
+    "material_lots": 100,
+    "process_executions": 1000,
+    "process_steps": 5,
+    "production_orders": 200,
+    "products": 20,
+    "seed": 3399,
+    "state_events": 994,
+    "suppliers": 10
+  }
+}

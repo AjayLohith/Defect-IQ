@@ -1,0 +1,11 @@
+machine_id,machine_name,machine_type,line_code,machine_status,calibration_due_date,maintenance_risk_score
+MCH-0001,High-Precision 5-Axis CNC Mill #01,CNC_MILL,LINE-A,OPERATIONAL,2026-04-13,13.5
+MCH-0002,Hydraulic Thermoplastic Molding Press #02,INJECTION_MOLD,LINE-B,OPERATIONAL,2026-04-25,22.0
+MCH-0003,High-Speed SMT Placement System #03,SMT_PICK_PLACE,LINE-C,OPERATIONAL,2026-05-07,30.5
+MCH-0004,Automated Fiber Laser Welder #04,LASER_WELDER,LINE-A,OPERATIONAL,2026-05-19,39.0
+MCH-0005,Automated 3D Optical Inspection Station #05,OPTICAL_INSPECTOR,LINE-B,OPERATIONAL,2026-05-31,47.5
+MCH-0006,High-Precision 5-Axis CNC Mill #06,CNC_MILL,LINE-C,OPERATIONAL,2026-06-12,56.0
+MCH-0007,Hydraulic Thermoplastic Molding Press #07,INJECTION_MOLD,LINE-A,OPERATIONAL,2026-06-24,64.5
+MCH-0008,High-Speed SMT Placement System #08,SMT_PICK_PLACE,LINE-B,OPERATIONAL,2026-07-06,5.0
+MCH-0009,Automated Fiber Laser Welder #09,LASER_WELDER,LINE-C,OPERATIONAL,2026-07-18,13.5
+MCH-0010,Automated 3D Optical Inspection Station #10,OPTICAL_INSPECTOR,LINE-A,DEGRADED,2026-07-30,22.0

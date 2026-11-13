@@ -1,0 +1,102 @@
+[
+  {
+    "country_code": "US",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 14,
+    "supplier_id": "SUP-0001",
+    "supplier_name": "Apex Industrial Components Global #001",
+    "supplier_risk_tier": "TIER_1_LOW",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "DE",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 21,
+    "supplier_id": "SUP-0002",
+    "supplier_name": "Apex Industrial Components Global #002",
+    "supplier_risk_tier": "TIER_1_LOW",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "JP",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 28,
+    "supplier_id": "SUP-0003",
+    "supplier_name": "Apex Industrial Components Global #003",
+    "supplier_risk_tier": "TIER_3_HIGH",
+    "supplier_status": "PROBATION"
+  },
+  {
+    "country_code": "KR",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 35,
+    "supplier_id": "SUP-0004",
+    "supplier_name": "Apex Industrial Components Global #004",
+    "supplier_risk_tier": "TIER_2_MED",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "MX",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 7,
+    "supplier_id": "SUP-0005",
+    "supplier_name": "Apex Industrial Components Global #005",
+    "supplier_risk_tier": "TIER_3_HIGH",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "TW",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 14,
+    "supplier_id": "SUP-0006",
+    "supplier_name": "Apex Industrial Components Global #006",
+    "supplier_risk_tier": "TIER_2_MED",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "CA",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 21,
+    "supplier_id": "SUP-0007",
+    "supplier_name": "Apex Industrial Components Global #007",
+    "supplier_risk_tier": "TIER_1_LOW",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "GB",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 28,
+    "supplier_id": "SUP-0008",
+    "supplier_name": "Apex Industrial Components Global #008",
+    "supplier_risk_tier": "TIER_1_LOW",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "CH",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 35,
+    "supplier_id": "SUP-0009",
+    "supplier_name": "Apex Industrial Components Global #009",
+    "supplier_risk_tier": "TIER_1_LOW",
+    "supplier_status": "QUALIFIED"
+  },
+  {
+    "country_code": "FR",
+    "effective_end_date": null,
+    "effective_start_date": "2024-08-19",
+    "lead_time_days": 7,
+    "supplier_id": "SUP-0010",
+    "supplier_name": "Apex Industrial Components Global #010",
+    "supplier_risk_tier": "TIER_2_MED",
+    "supplier_status": "QUALIFIED"
+  }
+]

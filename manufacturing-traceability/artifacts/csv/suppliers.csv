@@ -1,0 +1,11 @@
+supplier_id,supplier_name,supplier_status,supplier_risk_tier,country_code,lead_time_days,effective_start_date,effective_end_date
+SUP-0001,Apex Industrial Components Global #001,QUALIFIED,TIER_1_LOW,US,14,2024-08-19,
+SUP-0002,Apex Industrial Components Global #002,QUALIFIED,TIER_1_LOW,DE,21,2024-08-19,
+SUP-0003,Apex Industrial Components Global #003,PROBATION,TIER_3_HIGH,JP,28,2024-08-19,
+SUP-0004,Apex Industrial Components Global #004,QUALIFIED,TIER_2_MED,KR,35,2024-08-19,
+SUP-0005,Apex Industrial Components Global #005,QUALIFIED,TIER_3_HIGH,MX,7,2024-08-19,
+SUP-0006,Apex Industrial Components Global #006,QUALIFIED,TIER_2_MED,TW,14,2024-08-19,
+SUP-0007,Apex Industrial Components Global #007,QUALIFIED,TIER_1_LOW,CA,21,2024-08-19,
+SUP-0008,Apex Industrial Components Global #008,QUALIFIED,TIER_1_LOW,GB,28,2024-08-19,
+SUP-0009,Apex Industrial Components Global #009,QUALIFIED,TIER_1_LOW,CH,35,2024-08-19,
+SUP-0010,Apex Industrial Components Global #010,QUALIFIED,TIER_2_MED,FR,7,2024-08-19,

@@ -1,0 +1,92 @@
+[
+  {
+    "calibration_due_date": "2026-04-13",
+    "line_code": "LINE-A",
+    "machine_id": "MCH-0001",
+    "machine_name": "High-Precision 5-Axis CNC Mill #01",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "CNC_MILL",
+    "maintenance_risk_score": 13.5
+  },
+  {
+    "calibration_due_date": "2026-04-25",
+    "line_code": "LINE-B",
+    "machine_id": "MCH-0002",
+    "machine_name": "Hydraulic Thermoplastic Molding Press #02",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "INJECTION_MOLD",
+    "maintenance_risk_score": 22.0
+  },
+  {
+    "calibration_due_date": "2026-05-07",
+    "line_code": "LINE-C",
+    "machine_id": "MCH-0003",
+    "machine_name": "High-Speed SMT Placement System #03",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "SMT_PICK_PLACE",
+    "maintenance_risk_score": 30.5
+  },
+  {
+    "calibration_due_date": "2026-05-19",
+    "line_code": "LINE-A",
+    "machine_id": "MCH-0004",
+    "machine_name": "Automated Fiber Laser Welder #04",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "LASER_WELDER",
+    "maintenance_risk_score": 39.0
+  },
+  {
+    "calibration_due_date": "2026-05-31",
+    "line_code": "LINE-B",
+    "machine_id": "MCH-0005",
+    "machine_name": "Automated 3D Optical Inspection Station #05",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "OPTICAL_INSPECTOR",
+    "maintenance_risk_score": 47.5
+  },
+  {
+    "calibration_due_date": "2026-06-12",
+    "line_code": "LINE-C",
+    "machine_id": "MCH-0006",
+    "machine_name": "High-Precision 5-Axis CNC Mill #06",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "CNC_MILL",
+    "maintenance_risk_score": 56.0
+  },
+  {
+    "calibration_due_date": "2026-06-24",
+    "line_code": "LINE-A",
+    "machine_id": "MCH-0007",
+    "machine_name": "Hydraulic Thermoplastic Molding Press #07",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "INJECTION_MOLD",
+    "maintenance_risk_score": 64.5
+  },
+  {
+    "calibration_due_date": "2026-07-06",
+    "line_code": "LINE-B",
+    "machine_id": "MCH-0008",
+    "machine_name": "High-Speed SMT Placement System #08",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "SMT_PICK_PLACE",
+    "maintenance_risk_score": 5.0
+  },
+  {
+    "calibration_due_date": "2026-07-18",
+    "line_code": "LINE-C",
+    "machine_id": "MCH-0009",
+    "machine_name": "Automated Fiber Laser Welder #09",
+    "machine_status": "OPERATIONAL",
+    "machine_type": "LASER_WELDER",
+    "maintenance_risk_score": 13.5
+  },
+  {
+    "calibration_due_date": "2026-07-30",
+    "line_code": "LINE-A",
+    "machine_id": "MCH-0010",
+    "machine_name": "Automated 3D Optical Inspection Station #10",
+    "machine_status": "DEGRADED",
+    "machine_type": "OPTICAL_INSPECTOR",
+    "maintenance_risk_score": 22.0
+  }
+]

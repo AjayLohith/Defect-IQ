@@ -1,0 +1,82 @@
+[
+  {
+    "bom_id": "BOM-000001",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000001",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000002",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000002",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000003",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000003",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000004",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000004",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000005",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000005",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000006",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000006",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000007",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000007",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000008",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000008",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000009",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000009",
+    "revision": "A",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-000010",
+    "effective_end_date": null,
+    "effective_start_date": "2025-07-05",
+    "product_id": "SKU-000010",
+    "revision": "A",
+    "status": "ACTIVE"
+  }
+]

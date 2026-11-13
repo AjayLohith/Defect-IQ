@@ -1,0 +1,6002 @@
+[
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-01-01T08:01:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000001",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000001",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-01-01T08:02:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000002",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000001",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-01-01T08:03:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000003",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000001",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-01-02T08:04:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000004",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000002",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-01-02T08:05:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000005",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000002",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-01-02T08:06:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000006",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000002",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-01-02T08:07:00+00:00",
+    "consumed_quantity": 156.0,
+    "consumption_id": "CONS-000007",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000002",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-01-03T08:08:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000008",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000003",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-01-03T08:09:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000009",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000003",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-01-04T08:10:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000010",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000004",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-01-04T08:11:00+00:00",
+    "consumed_quantity": 312.0,
+    "consumption_id": "CONS-000011",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000004",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-01-04T08:12:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000012",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000004",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-01-05T08:13:00+00:00",
+    "consumed_quantity": 267.75,
+    "consumption_id": "CONS-000013",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000005",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-01-05T08:14:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000014",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000005",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-01-05T08:15:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000015",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000005",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-01-05T08:16:00+00:00",
+    "consumed_quantity": 265.125,
+    "consumption_id": "CONS-000016",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000005",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-01-06T08:17:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000017",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000006",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-01-06T08:18:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000018",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000006",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-01-07T08:19:00+00:00",
+    "consumed_quantity": 117.0,
+    "consumption_id": "CONS-000019",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000007",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-01-07T08:20:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000020",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000007",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-01-07T08:21:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000021",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000007",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-01-08T08:22:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000022",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000008",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-01-08T08:23:00+00:00",
+    "consumed_quantity": 208.0,
+    "consumption_id": "CONS-000023",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000008",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-01-08T08:24:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000024",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000008",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-01-08T08:25:00+00:00",
+    "consumed_quantity": 153.0,
+    "consumption_id": "CONS-000025",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000008",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-01-09T08:26:00+00:00",
+    "consumed_quantity": 257.5,
+    "consumption_id": "CONS-000026",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000009",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-01-09T08:27:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000027",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000009",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-01-10T08:28:00+00:00",
+    "consumed_quantity": 227.25,
+    "consumption_id": "CONS-000028",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000010",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-01-10T08:29:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000029",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000010",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-01-10T08:30:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000030",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000010",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-01-10T08:31:00+00:00",
+    "consumed_quantity": 267.75,
+    "consumption_id": "CONS-000031",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000011",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-01-10T08:32:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000032",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000011",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-01-10T08:33:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000033",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000011",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-01-11T08:34:00+00:00",
+    "consumed_quantity": 75.75,
+    "consumption_id": "CONS-000034",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000012",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-01-11T08:35:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000035",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000012",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-01-11T08:36:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000036",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000012",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-01-11T08:37:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000037",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000012",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-01-12T08:38:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000038",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000013",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-01-12T08:39:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000039",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000013",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-01-13T08:40:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000040",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000014",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-01-13T08:41:00+00:00",
+    "consumed_quantity": 208.0,
+    "consumption_id": "CONS-000041",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000014",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-01-13T08:42:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000042",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000014",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-01-14T08:43:00+00:00",
+    "consumed_quantity": 191.25,
+    "consumption_id": "CONS-000043",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000015",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-01-14T08:44:00+00:00",
+    "consumed_quantity": 257.5,
+    "consumption_id": "CONS-000044",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000015",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-01-14T08:45:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000045",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000015",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-01-14T08:46:00+00:00",
+    "consumed_quantity": 189.375,
+    "consumption_id": "CONS-000046",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000015",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-01-15T08:47:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000047",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000016",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-01-15T08:48:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000048",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000016",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-01-16T08:49:00+00:00",
+    "consumed_quantity": 273.0,
+    "consumption_id": "CONS-000049",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000017",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-01-16T08:50:00+00:00",
+    "consumed_quantity": 353.5,
+    "consumption_id": "CONS-000050",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000017",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-01-16T08:51:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000051",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000017",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-01-17T08:52:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000052",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000018",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-01-17T08:53:00+00:00",
+    "consumed_quantity": 104.0,
+    "consumption_id": "CONS-000053",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000018",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-01-17T08:54:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000054",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000018",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-01-17T08:55:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000055",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000018",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-01-18T08:56:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000056",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000019",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-01-18T08:57:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000057",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000019",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-01-19T08:58:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000058",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000020",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-01-19T08:59:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000059",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000020",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-01-19T08:00:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000060",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000020",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-01-19T08:01:00+00:00",
+    "consumed_quantity": 191.25,
+    "consumption_id": "CONS-000061",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000021",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-01-19T08:02:00+00:00",
+    "consumed_quantity": 257.5,
+    "consumption_id": "CONS-000062",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000021",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-01-19T08:03:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000063",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000021",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-01-20T08:04:00+00:00",
+    "consumed_quantity": 227.25,
+    "consumption_id": "CONS-000064",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000022",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-01-20T08:05:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000065",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000022",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-01-20T08:06:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000066",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000022",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-01-20T08:07:00+00:00",
+    "consumed_quantity": 234.0,
+    "consumption_id": "CONS-000067",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000022",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-01-21T08:08:00+00:00",
+    "consumed_quantity": 353.5,
+    "consumption_id": "CONS-000068",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000023",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-01-21T08:09:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000069",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000023",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-01-22T08:10:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000070",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000024",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-01-22T08:11:00+00:00",
+    "consumed_quantity": 104.0,
+    "consumption_id": "CONS-000071",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000024",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-01-22T08:12:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000072",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000024",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-01-23T08:13:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000073",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000025",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-01-23T08:14:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000074",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000025",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-01-23T08:15:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000075",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000025",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-01-23T08:16:00+00:00",
+    "consumed_quantity": 113.625,
+    "consumption_id": "CONS-000076",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000025",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-01-24T08:17:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000077",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000026",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-01-24T08:18:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000078",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000026",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-01-25T08:19:00+00:00",
+    "consumed_quantity": 195.0,
+    "consumption_id": "CONS-000079",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000027",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-01-25T08:20:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000080",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000027",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-01-25T08:21:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000081",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000027",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-01-26T08:22:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000082",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000028",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-01-26T08:23:00+00:00",
+    "consumed_quantity": 312.0,
+    "consumption_id": "CONS-000083",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000028",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-01-26T08:24:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000084",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000028",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-01-26T08:25:00+00:00",
+    "consumed_quantity": 229.5,
+    "consumption_id": "CONS-000085",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000028",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-01-27T08:26:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000086",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000029",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-01-27T08:27:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000087",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000029",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-01-28T08:28:00+00:00",
+    "consumed_quantity": 75.75,
+    "consumption_id": "CONS-000088",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000030",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-01-28T08:29:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000089",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000030",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-01-28T08:30:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000090",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000030",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-01-28T08:31:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000091",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000031",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-01-28T08:32:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000092",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000031",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-01-28T08:33:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000093",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000031",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-01-29T08:34:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000094",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000032",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-01-29T08:35:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000095",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000032",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-01-29T08:36:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000096",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000032",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-01-29T08:37:00+00:00",
+    "consumed_quantity": 156.0,
+    "consumption_id": "CONS-000097",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000032",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-01-30T08:38:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000098",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000033",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-01-30T08:39:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000099",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000033",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-01-31T08:40:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000100",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000034",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-01-31T08:41:00+00:00",
+    "consumed_quantity": 312.0,
+    "consumption_id": "CONS-000101",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000034",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-01-31T08:42:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000102",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000034",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-02-01T08:43:00+00:00",
+    "consumed_quantity": 267.75,
+    "consumption_id": "CONS-000103",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000035",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-02-01T08:44:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000104",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000035",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-02-01T08:45:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000105",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000035",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-02-01T08:46:00+00:00",
+    "consumed_quantity": 265.125,
+    "consumption_id": "CONS-000106",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000035",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-02-02T08:47:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000107",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000036",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-02-02T08:48:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000108",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000036",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-02-03T08:49:00+00:00",
+    "consumed_quantity": 117.0,
+    "consumption_id": "CONS-000109",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000037",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-02-03T08:50:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000110",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000037",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-02-03T08:51:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000111",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000037",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-02-04T08:52:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000112",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000038",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-02-04T08:53:00+00:00",
+    "consumed_quantity": 208.0,
+    "consumption_id": "CONS-000113",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000038",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-02-04T08:54:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000114",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000038",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-02-04T08:55:00+00:00",
+    "consumed_quantity": 153.0,
+    "consumption_id": "CONS-000115",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000038",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-02-05T08:56:00+00:00",
+    "consumed_quantity": 227.5,
+    "consumption_id": "CONS-000116",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000039",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-02-05T08:57:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000117",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000039",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-02-06T08:58:00+00:00",
+    "consumed_quantity": 227.25,
+    "consumption_id": "CONS-000118",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000040",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-02-06T08:59:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000119",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000040",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-02-06T08:00:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000120",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000040",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-02-06T08:01:00+00:00",
+    "consumed_quantity": 267.75,
+    "consumption_id": "CONS-000121",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000041",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-02-06T08:02:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000122",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000041",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-02-06T08:03:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000123",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000041",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-02-07T08:04:00+00:00",
+    "consumed_quantity": 75.75,
+    "consumption_id": "CONS-000124",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000042",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-02-07T08:05:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000125",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000042",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-02-07T08:06:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000126",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000042",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-02-07T08:07:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000127",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000042",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-02-08T08:08:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000128",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000043",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-02-08T08:09:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000129",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000043",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-02-09T08:10:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000130",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000044",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-02-09T08:11:00+00:00",
+    "consumed_quantity": 208.0,
+    "consumption_id": "CONS-000131",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000044",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-02-09T08:12:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000132",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000044",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-02-10T08:13:00+00:00",
+    "consumed_quantity": 191.25,
+    "consumption_id": "CONS-000133",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000045",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-02-10T08:14:00+00:00",
+    "consumed_quantity": 257.5,
+    "consumption_id": "CONS-000134",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000045",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-02-10T08:15:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000135",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000045",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-02-10T08:16:00+00:00",
+    "consumed_quantity": 189.375,
+    "consumption_id": "CONS-000136",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000045",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-02-11T08:17:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000137",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000046",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-02-11T08:18:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000138",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000046",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-02-12T08:19:00+00:00",
+    "consumed_quantity": 273.0,
+    "consumption_id": "CONS-000139",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000047",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-02-12T08:20:00+00:00",
+    "consumed_quantity": 353.5,
+    "consumption_id": "CONS-000140",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000047",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-02-12T08:21:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000141",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000047",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-02-13T08:22:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000142",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000048",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-02-13T08:23:00+00:00",
+    "consumed_quantity": 104.0,
+    "consumption_id": "CONS-000143",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000048",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-02-13T08:24:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000144",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000048",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-02-13T08:25:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000145",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000048",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-02-14T08:26:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000146",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000049",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-02-14T08:27:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000147",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000049",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-02-15T08:28:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000148",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000050",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-02-15T08:29:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000149",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000050",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-02-15T08:30:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000150",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000050",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-02-15T08:31:00+00:00",
+    "consumed_quantity": 191.25,
+    "consumption_id": "CONS-000151",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000051",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-02-15T08:32:00+00:00",
+    "consumed_quantity": 257.5,
+    "consumption_id": "CONS-000152",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000051",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-02-15T08:33:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000153",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000051",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-02-16T08:34:00+00:00",
+    "consumed_quantity": 227.25,
+    "consumption_id": "CONS-000154",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000052",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-02-16T08:35:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000155",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000052",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-02-16T08:36:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000156",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000052",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-02-16T08:37:00+00:00",
+    "consumed_quantity": 234.0,
+    "consumption_id": "CONS-000157",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000052",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-02-17T08:38:00+00:00",
+    "consumed_quantity": 353.5,
+    "consumption_id": "CONS-000158",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000053",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-02-17T08:39:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000159",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000053",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-02-18T08:40:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000160",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000054",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-02-18T08:41:00+00:00",
+    "consumed_quantity": 104.0,
+    "consumption_id": "CONS-000161",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000054",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-02-18T08:42:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000162",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000054",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-02-19T08:43:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000163",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000055",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-02-19T08:44:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000164",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000055",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-02-19T08:45:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000165",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000055",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-02-19T08:46:00+00:00",
+    "consumed_quantity": 113.625,
+    "consumption_id": "CONS-000166",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000055",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-02-20T08:47:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000167",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000056",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-02-20T08:48:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000168",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000056",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-02-21T08:49:00+00:00",
+    "consumed_quantity": 195.0,
+    "consumption_id": "CONS-000169",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000057",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-02-21T08:50:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000170",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000057",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-02-21T08:51:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000171",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000057",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-02-22T08:52:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000172",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000058",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-02-22T08:53:00+00:00",
+    "consumed_quantity": 64.0,
+    "consumption_id": "CONS-000173",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000058",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-02-22T08:54:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000174",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000058",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-02-22T08:55:00+00:00",
+    "consumed_quantity": 229.5,
+    "consumption_id": "CONS-000175",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000058",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-02-23T08:56:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000176",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000059",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-02-23T08:57:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000177",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000059",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-02-24T08:58:00+00:00",
+    "consumed_quantity": 75.75,
+    "consumption_id": "CONS-000178",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000060",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-02-24T08:59:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000179",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000060",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-02-24T08:00:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000180",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000060",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-02-24T08:01:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000181",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000061",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-02-24T08:02:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000182",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000061",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-02-24T08:03:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000183",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000061",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-02-25T08:04:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000184",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000062",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-02-25T08:05:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000185",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000062",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-02-25T08:06:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000186",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000062",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-02-25T08:07:00+00:00",
+    "consumed_quantity": 156.0,
+    "consumption_id": "CONS-000187",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000062",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-02-26T08:08:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000188",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000063",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-02-26T08:09:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000189",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000063",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-02-27T08:10:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000190",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000064",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-02-27T08:11:00+00:00",
+    "consumed_quantity": 312.0,
+    "consumption_id": "CONS-000191",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000064",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-02-27T08:12:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000192",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000064",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-02-28T08:13:00+00:00",
+    "consumed_quantity": 267.75,
+    "consumption_id": "CONS-000193",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000065",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-02-28T08:14:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000194",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000065",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-02-28T08:15:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000195",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000065",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-02-28T08:16:00+00:00",
+    "consumed_quantity": 265.125,
+    "consumption_id": "CONS-000196",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000065",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-03-01T08:17:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000197",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000066",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-03-01T08:18:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000198",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000066",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-03-02T08:19:00+00:00",
+    "consumed_quantity": 117.0,
+    "consumption_id": "CONS-000199",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000067",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-03-02T08:20:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000200",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000067",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-03-02T08:21:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000201",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000067",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-03-03T08:22:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000202",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000068",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-03-03T08:23:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000203",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000068",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-03-03T08:24:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000204",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000068",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-03-03T08:25:00+00:00",
+    "consumed_quantity": 153.0,
+    "consumption_id": "CONS-000205",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000068",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-03-04T08:26:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000206",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000069",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-03-04T08:27:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000207",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000069",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-03-05T08:28:00+00:00",
+    "consumed_quantity": 227.25,
+    "consumption_id": "CONS-000208",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000070",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-03-05T08:29:00+00:00",
+    "consumed_quantity": 276.0,
+    "consumption_id": "CONS-000209",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000070",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-03-05T08:30:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000210",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000070",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-03-05T08:31:00+00:00",
+    "consumed_quantity": 237.75,
+    "consumption_id": "CONS-000211",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000071",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-03-05T08:32:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000212",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000071",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-03-05T08:33:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000213",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000071",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-03-06T08:34:00+00:00",
+    "consumed_quantity": 75.75,
+    "consumption_id": "CONS-000214",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000072",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-03-06T08:35:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000215",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000072",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-03-06T08:36:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000216",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000072",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-03-06T08:37:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000217",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000072",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-03-07T08:38:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000218",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000073",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-03-07T08:39:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000219",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000073",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-03-08T08:40:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000220",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000074",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-03-08T08:41:00+00:00",
+    "consumed_quantity": 208.0,
+    "consumption_id": "CONS-000221",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000074",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-03-08T08:42:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000222",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000074",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-03-09T08:43:00+00:00",
+    "consumed_quantity": 191.25,
+    "consumption_id": "CONS-000223",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000075",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-03-09T08:44:00+00:00",
+    "consumed_quantity": 257.5,
+    "consumption_id": "CONS-000224",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000075",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-03-09T08:45:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000225",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000075",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-03-09T08:46:00+00:00",
+    "consumed_quantity": 189.375,
+    "consumption_id": "CONS-000226",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000075",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-03-10T08:47:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000227",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000076",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-03-10T08:48:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000228",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000076",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-03-11T08:49:00+00:00",
+    "consumed_quantity": 273.0,
+    "consumption_id": "CONS-000229",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000077",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-03-11T08:50:00+00:00",
+    "consumed_quantity": 353.5,
+    "consumption_id": "CONS-000230",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000077",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-03-11T08:51:00+00:00",
+    "consumed_quantity": 158.5,
+    "consumption_id": "CONS-000231",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000077",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-03-12T08:52:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000232",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000078",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-03-12T08:53:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000233",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000078",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-03-12T08:54:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000234",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000078",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-03-12T08:55:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000235",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000078",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-03-13T08:56:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000236",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000079",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-03-13T08:57:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000237",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000079",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-03-14T08:58:00+00:00",
+    "consumed_quantity": 113.75,
+    "consumption_id": "CONS-000238",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000080",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-03-14T08:59:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000239",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000080",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-03-14T08:00:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000240",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000080",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-03-14T08:01:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000241",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000081",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-03-14T08:02:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000242",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000081",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-03-14T08:03:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000243",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000081",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-03-15T08:04:00+00:00",
+    "consumed_quantity": 227.25,
+    "consumption_id": "CONS-000244",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000082",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-03-15T08:05:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000245",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000082",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-03-15T08:06:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000246",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000082",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-03-15T08:07:00+00:00",
+    "consumed_quantity": 234.0,
+    "consumption_id": "CONS-000247",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000082",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-03-16T08:08:00+00:00",
+    "consumed_quantity": 81.0,
+    "consumption_id": "CONS-000248",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000083",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-03-16T08:09:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000249",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000083",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-03-17T08:10:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000250",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000084",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-03-17T08:11:00+00:00",
+    "consumed_quantity": 104.0,
+    "consumption_id": "CONS-000251",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000084",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-03-17T08:12:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000252",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000084",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-03-18T08:13:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000253",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000085",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-03-18T08:14:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000254",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000085",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-03-18T08:15:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000255",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000085",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-03-18T08:16:00+00:00",
+    "consumed_quantity": 113.625,
+    "consumption_id": "CONS-000256",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000085",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-03-19T08:17:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000257",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000086",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-03-19T08:18:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000258",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000086",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-03-20T08:19:00+00:00",
+    "consumed_quantity": 195.0,
+    "consumption_id": "CONS-000259",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000087",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-03-20T08:20:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000260",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000087",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-03-20T08:21:00+00:00",
+    "consumed_quantity": 12.75,
+    "consumption_id": "CONS-000261",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000087",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-03-21T08:22:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000262",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000088",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-03-21T08:23:00+00:00",
+    "consumed_quantity": 31.2,
+    "consumption_id": "CONS-000263",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000088",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-03-21T08:24:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000264",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000088",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-03-21T08:25:00+00:00",
+    "consumed_quantity": 229.5,
+    "consumption_id": "CONS-000265",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000088",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-03-22T08:26:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000266",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000089",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-03-22T08:27:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000267",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000089",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-03-23T08:28:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000268",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000090",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-03-23T08:29:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000269",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000090",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-03-23T08:30:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000270",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000090",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-03-23T08:31:00+00:00",
+    "consumed_quantity": 11.475,
+    "consumption_id": "CONS-000271",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000091",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-03-23T08:32:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000272",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000091",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-03-23T08:33:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000273",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000091",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-03-24T08:34:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000274",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000092",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-03-24T08:35:00+00:00",
+    "consumed_quantity": 164.0,
+    "consumption_id": "CONS-000275",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000092",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-03-24T08:36:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000276",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000092",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-03-24T08:37:00+00:00",
+    "consumed_quantity": 156.0,
+    "consumption_id": "CONS-000277",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000092",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-03-25T08:38:00+00:00",
+    "consumed_quantity": 25.25,
+    "consumption_id": "CONS-000278",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000093",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-03-25T08:39:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000279",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000093",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-03-26T08:40:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000280",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000094",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-03-26T08:41:00+00:00",
+    "consumed_quantity": 312.0,
+    "consumption_id": "CONS-000281",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000094",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-03-26T08:42:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000282",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000094",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-03-27T08:43:00+00:00",
+    "consumed_quantity": 267.75,
+    "consumption_id": "CONS-000283",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000095",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-03-27T08:44:00+00:00",
+    "consumed_quantity": 360.5,
+    "consumption_id": "CONS-000284",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000095",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-03-27T08:45:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000285",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000095",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-03-27T08:46:00+00:00",
+    "consumed_quantity": 265.125,
+    "consumption_id": "CONS-000286",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000095",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-03-28T08:47:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000287",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000096",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-03-28T08:48:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000288",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000096",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-03-29T08:49:00+00:00",
+    "consumed_quantity": 117.0,
+    "consumption_id": "CONS-000289",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000097",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-03-29T08:50:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000290",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000097",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-03-29T08:51:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000291",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000097",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-03-30T08:52:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000292",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000098",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-03-30T08:53:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000293",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000098",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-03-30T08:54:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000294",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000098",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-03-30T08:55:00+00:00",
+    "consumed_quantity": 123.0,
+    "consumption_id": "CONS-000295",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000098",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-03-31T08:56:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000296",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000099",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-03-31T08:57:00+00:00",
+    "consumed_quantity": 80.0,
+    "consumption_id": "CONS-000297",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000099",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-04-01T08:58:00+00:00",
+    "consumed_quantity": 22.725,
+    "consumption_id": "CONS-000298",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000100",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-04-01T08:59:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000299",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000100",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-04-01T08:00:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000300",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000100",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-04-01T08:01:00+00:00",
+    "consumed_quantity": 26.775,
+    "consumption_id": "CONS-000301",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000101",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-04-01T08:02:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000302",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000101",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-04-01T08:03:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000303",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000101",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-04-02T08:04:00+00:00",
+    "consumed_quantity": 75.75,
+    "consumption_id": "CONS-000304",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000102",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-04-02T08:05:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000305",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000102",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-04-02T08:06:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000306",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000102",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-04-02T08:07:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000307",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000102",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-04-03T08:08:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000308",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000103",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-04-03T08:09:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000309",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000103",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-04-04T08:10:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000310",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000104",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-04-04T08:11:00+00:00",
+    "consumed_quantity": 208.0,
+    "consumption_id": "CONS-000311",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000104",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-04-04T08:12:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000312",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000104",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-04-05T08:13:00+00:00",
+    "consumed_quantity": 191.25,
+    "consumption_id": "CONS-000313",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000105",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-04-05T08:14:00+00:00",
+    "consumed_quantity": 72.0,
+    "consumption_id": "CONS-000314",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000105",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-04-05T08:15:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000315",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000105",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-04-05T08:16:00+00:00",
+    "consumed_quantity": 189.375,
+    "consumption_id": "CONS-000316",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000105",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-04-06T08:17:00+00:00",
+    "consumed_quantity": 306.0,
+    "consumption_id": "CONS-000317",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000106",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-04-06T08:18:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000318",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000106",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-04-07T08:19:00+00:00",
+    "consumed_quantity": 273.0,
+    "consumption_id": "CONS-000319",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000107",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-04-07T08:20:00+00:00",
+    "consumed_quantity": 353.5,
+    "consumption_id": "CONS-000320",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000107",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-04-07T08:21:00+00:00",
+    "consumed_quantity": 17.85,
+    "consumption_id": "CONS-000321",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000107",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-04-08T08:22:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000322",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000108",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-04-08T08:23:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000323",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000108",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-04-08T08:24:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000324",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000108",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-04-08T08:25:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000325",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000108",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-04-09T08:26:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000326",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000109",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-04-09T08:27:00+00:00",
+    "consumed_quantity": 7.8,
+    "consumption_id": "CONS-000327",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000109",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-04-10T08:28:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000328",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000110",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-04-10T08:29:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000329",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000110",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-04-10T08:30:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000330",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000110",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-04-10T08:31:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000331",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000111",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-04-10T08:32:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000332",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000111",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-04-10T08:33:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000333",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000111",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-04-11T08:34:00+00:00",
+    "consumed_quantity": 159.25,
+    "consumption_id": "CONS-000334",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000112",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-04-11T08:35:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000335",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000112",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-04-11T08:36:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000336",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000112",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-04-11T08:37:00+00:00",
+    "consumed_quantity": 234.0,
+    "consumption_id": "CONS-000337",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000112",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-04-12T08:38:00+00:00",
+    "consumed_quantity": 35.35,
+    "consumption_id": "CONS-000338",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000113",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-04-12T08:39:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000339",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000113",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-04-13T08:40:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000340",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000114",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-04-13T08:41:00+00:00",
+    "consumed_quantity": 104.0,
+    "consumption_id": "CONS-000341",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000114",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-04-13T08:42:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000342",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000114",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-04-14T08:43:00+00:00",
+    "consumed_quantity": 114.75,
+    "consumption_id": "CONS-000343",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000115",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-04-14T08:44:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000344",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000115",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-04-14T08:45:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000345",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000115",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-04-14T08:46:00+00:00",
+    "consumed_quantity": 113.625,
+    "consumption_id": "CONS-000346",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000115",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-04-15T08:47:00+00:00",
+    "consumed_quantity": 204.0,
+    "consumption_id": "CONS-000347",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000116",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-04-15T08:48:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000348",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000116",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-04-16T08:49:00+00:00",
+    "consumed_quantity": 195.0,
+    "consumption_id": "CONS-000349",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000117",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-04-16T08:50:00+00:00",
+    "consumed_quantity": 252.5,
+    "consumption_id": "CONS-000350",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000117",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-04-16T08:51:00+00:00",
+    "consumed_quantity": 12.75,
+    "consumption_id": "CONS-000351",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000117",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-04-17T08:52:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000352",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000118",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-04-17T08:53:00+00:00",
+    "consumed_quantity": 31.2,
+    "consumption_id": "CONS-000353",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000118",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-04-17T08:54:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000354",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000118",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-04-17T08:55:00+00:00",
+    "consumed_quantity": 22.95,
+    "consumption_id": "CONS-000355",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000118",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-04-18T08:56:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000356",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000119",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-04-18T08:57:00+00:00",
+    "consumed_quantity": 18.2,
+    "consumption_id": "CONS-000357",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000119",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-04-19T08:58:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000358",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000120",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-04-19T08:59:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000359",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000120",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-04-19T08:00:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000360",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000120",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-04-19T08:01:00+00:00",
+    "consumed_quantity": 11.475,
+    "consumption_id": "CONS-000361",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000121",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-04-19T08:02:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000362",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000121",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-04-19T08:03:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000363",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000121",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-04-20T08:04:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000364",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000122",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-04-20T08:05:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000365",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000122",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-04-20T08:06:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000366",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000122",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-04-20T08:07:00+00:00",
+    "consumed_quantity": 156.0,
+    "consumption_id": "CONS-000367",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000122",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-04-21T08:08:00+00:00",
+    "consumed_quantity": 25.25,
+    "consumption_id": "CONS-000368",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000123",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-04-21T08:09:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000369",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000123",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-04-22T08:10:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000370",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000124",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-04-22T08:11:00+00:00",
+    "consumed_quantity": 4.0,
+    "consumption_id": "CONS-000371",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000124",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-04-22T08:12:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000372",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000124",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-04-23T08:13:00+00:00",
+    "consumed_quantity": 205.0,
+    "consumption_id": "CONS-000373",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000125",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-04-23T08:14:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000374",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000125",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-04-23T08:15:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000375",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000125",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-04-23T08:16:00+00:00",
+    "consumed_quantity": 265.125,
+    "consumption_id": "CONS-000376",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000125",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-04-24T08:17:00+00:00",
+    "consumed_quantity": 102.0,
+    "consumption_id": "CONS-000377",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000126",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-04-24T08:18:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000378",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000126",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-04-25T08:19:00+00:00",
+    "consumed_quantity": 117.0,
+    "consumption_id": "CONS-000379",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000127",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-04-25T08:20:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000380",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000127",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-04-25T08:21:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000381",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000127",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-04-26T08:22:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000382",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000128",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-04-26T08:23:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000383",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000128",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-04-26T08:24:00+00:00",
+    "consumed_quantity": 38.0,
+    "consumption_id": "CONS-000384",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000128",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-04-26T08:25:00+00:00",
+    "consumed_quantity": 15.3,
+    "consumption_id": "CONS-000385",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000128",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-04-27T08:26:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000386",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000129",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-04-27T08:27:00+00:00",
+    "consumed_quantity": 13.0,
+    "consumption_id": "CONS-000387",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000129",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-04-28T08:28:00+00:00",
+    "consumed_quantity": 22.725,
+    "consumption_id": "CONS-000388",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000130",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-04-28T08:29:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000389",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000130",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-04-28T08:30:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000390",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000130",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-04-28T08:31:00+00:00",
+    "consumed_quantity": 26.775,
+    "consumption_id": "CONS-000391",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000131",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-04-28T08:32:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000392",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000131",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-04-28T08:33:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000393",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000131",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-04-29T08:34:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000394",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000132",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-04-29T08:35:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000395",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000132",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-04-29T08:36:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000396",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000132",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-04-29T08:37:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000397",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000132",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-04-30T08:38:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000398",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000133",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-04-30T08:39:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000399",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000133",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-05-01T08:40:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000400",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000134",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-05-01T08:41:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000401",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000134",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-05-01T08:42:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000402",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000134",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-05-02T08:43:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000403",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000135",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-05-02T08:44:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000404",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000135",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-05-02T08:45:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000405",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000135",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-05-02T08:46:00+00:00",
+    "consumed_quantity": 189.375,
+    "consumption_id": "CONS-000406",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000135",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-05-03T08:47:00+00:00",
+    "consumed_quantity": 200.0,
+    "consumption_id": "CONS-000407",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000136",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-05-03T08:48:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000408",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000136",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-05-04T08:49:00+00:00",
+    "consumed_quantity": 273.0,
+    "consumption_id": "CONS-000409",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000137",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-05-04T08:50:00+00:00",
+    "consumed_quantity": 68.5,
+    "consumption_id": "CONS-000410",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000137",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-05-04T08:51:00+00:00",
+    "consumed_quantity": 17.85,
+    "consumption_id": "CONS-000411",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000137",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-05-05T08:52:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000412",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000138",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-05-05T08:53:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000413",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000138",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-05-05T08:54:00+00:00",
+    "consumed_quantity": 5.05,
+    "consumption_id": "CONS-000414",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000138",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-05-05T08:55:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000415",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000138",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-05-06T08:56:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000416",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000139",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-05-06T08:57:00+00:00",
+    "consumed_quantity": 7.8,
+    "consumption_id": "CONS-000417",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000139",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-05-07T08:58:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000418",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000140",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-05-07T08:59:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000419",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000140",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-05-07T08:00:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000420",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000140",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-05-07T08:01:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000421",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000141",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-05-07T08:02:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000422",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000141",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-05-07T08:03:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000423",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000141",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-05-08T08:04:00+00:00",
+    "consumed_quantity": 22.725,
+    "consumption_id": "CONS-000424",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000142",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-05-08T08:05:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000425",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000142",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-05-08T08:06:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000426",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000142",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-05-08T08:07:00+00:00",
+    "consumed_quantity": 234.0,
+    "consumption_id": "CONS-000427",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000142",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-05-09T08:08:00+00:00",
+    "consumed_quantity": 35.35,
+    "consumption_id": "CONS-000428",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000143",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-05-09T08:09:00+00:00",
+    "consumed_quantity": 178.5,
+    "consumption_id": "CONS-000429",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000143",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-05-10T08:10:00+00:00",
+    "consumed_quantity": 9.75,
+    "consumption_id": "CONS-000430",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000144",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-05-10T08:11:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000431",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000144",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-05-10T08:12:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000432",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000144",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-05-11T08:13:00+00:00",
+    "consumed_quantity": 11.475,
+    "consumption_id": "CONS-000433",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000145",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-05-11T08:14:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000434",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000145",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-05-11T08:15:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000435",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000145",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-05-11T08:16:00+00:00",
+    "consumed_quantity": 113.625,
+    "consumption_id": "CONS-000436",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000145",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-05-12T08:17:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000437",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000146",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-05-12T08:18:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000438",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000146",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-05-13T08:19:00+00:00",
+    "consumed_quantity": 195.0,
+    "consumption_id": "CONS-000439",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000147",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-05-13T08:20:00+00:00",
+    "consumed_quantity": 25.25,
+    "consumption_id": "CONS-000440",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000147",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-05-13T08:21:00+00:00",
+    "consumed_quantity": 12.75,
+    "consumption_id": "CONS-000441",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000147",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-05-14T08:22:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000442",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000148",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-05-14T08:23:00+00:00",
+    "consumed_quantity": 31.2,
+    "consumption_id": "CONS-000443",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000148",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-05-14T08:24:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000444",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000148",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-05-14T08:25:00+00:00",
+    "consumed_quantity": 22.95,
+    "consumption_id": "CONS-000445",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000148",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-05-15T08:26:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000446",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000149",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-05-15T08:27:00+00:00",
+    "consumed_quantity": 18.2,
+    "consumption_id": "CONS-000447",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000149",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-05-16T08:28:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000448",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000150",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-05-16T08:29:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000449",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000150",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-05-16T08:30:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000450",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000150",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-05-16T08:31:00+00:00",
+    "consumed_quantity": 11.475,
+    "consumption_id": "CONS-000451",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000151",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-05-16T08:32:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000452",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000151",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-05-16T08:33:00+00:00",
+    "consumed_quantity": 50.0,
+    "consumption_id": "CONS-000453",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000151",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-05-17T08:34:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000454",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000152",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-05-17T08:35:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000455",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000152",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-05-17T08:36:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000456",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000152",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-05-17T08:37:00+00:00",
+    "consumed_quantity": 156.0,
+    "consumption_id": "CONS-000457",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000152",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-05-18T08:38:00+00:00",
+    "consumed_quantity": 25.25,
+    "consumption_id": "CONS-000458",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000153",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-05-18T08:39:00+00:00",
+    "consumed_quantity": 127.5,
+    "consumption_id": "CONS-000459",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000153",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-05-19T08:40:00+00:00",
+    "consumed_quantity": 23.175,
+    "consumption_id": "CONS-000460",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000154",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-05-19T08:41:00+00:00",
+    "consumed_quantity": 31.2,
+    "consumption_id": "CONS-000461",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000154",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-05-19T08:42:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000462",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000154",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-05-20T08:43:00+00:00",
+    "consumed_quantity": 26.775,
+    "consumption_id": "CONS-000463",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000155",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-05-20T08:44:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000464",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000155",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-05-20T08:45:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000465",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000155",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-05-20T08:46:00+00:00",
+    "consumed_quantity": 265.125,
+    "consumption_id": "CONS-000466",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000155",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-05-21T08:47:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000467",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000156",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-05-21T08:48:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000468",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000156",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-05-22T08:49:00+00:00",
+    "consumed_quantity": 75.0,
+    "consumption_id": "CONS-000469",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000157",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-05-22T08:50:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000470",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000157",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-05-22T08:51:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000471",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000157",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-05-23T08:52:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000472",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000158",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-05-23T08:53:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000473",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000158",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-05-23T08:54:00+00:00",
+    "consumed_quantity": 10.1,
+    "consumption_id": "CONS-000474",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000158",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-05-23T08:55:00+00:00",
+    "consumed_quantity": 15.3,
+    "consumption_id": "CONS-000475",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000158",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-05-24T08:56:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000476",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000159",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-05-24T08:57:00+00:00",
+    "consumed_quantity": 13.0,
+    "consumption_id": "CONS-000477",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000159",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-05-25T08:58:00+00:00",
+    "consumed_quantity": 22.725,
+    "consumption_id": "CONS-000478",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000160",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-05-25T08:59:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000479",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000160",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-05-25T08:00:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000480",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000160",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-05-25T08:01:00+00:00",
+    "consumed_quantity": 26.775,
+    "consumption_id": "CONS-000481",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000161",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-05-25T08:02:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000482",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000161",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-05-25T08:03:00+00:00",
+    "consumed_quantity": 18.2,
+    "consumption_id": "CONS-000483",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000161",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-05-26T08:04:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000484",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000162",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-05-26T08:05:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000485",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000162",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-05-26T08:06:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000486",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000162",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-05-26T08:07:00+00:00",
+    "consumed_quantity": 4.0,
+    "consumption_id": "CONS-000487",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000162",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-05-27T08:08:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000488",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000163",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-05-27T08:09:00+00:00",
+    "consumed_quantity": 76.5,
+    "consumption_id": "CONS-000489",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000163",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-05-28T08:10:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000490",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000164",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-05-28T08:11:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000491",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000164",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-05-28T08:12:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000492",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000164",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-05-29T08:13:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000493",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000165",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-05-29T08:14:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000494",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000165",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-05-29T08:15:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000495",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000165",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-05-29T08:16:00+00:00",
+    "consumed_quantity": 144.25,
+    "consumption_id": "CONS-000496",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000165",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-05-30T08:17:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000497",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000166",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-05-30T08:18:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000498",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000166",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-05-31T08:19:00+00:00",
+    "consumed_quantity": 27.3,
+    "consumption_id": "CONS-000499",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000167",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-05-31T08:20:00+00:00",
+    "consumed_quantity": 35.35,
+    "consumption_id": "CONS-000500",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000167",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-05-31T08:21:00+00:00",
+    "consumed_quantity": 17.85,
+    "consumption_id": "CONS-000501",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000167",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-06-01T08:22:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000502",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000168",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-06-01T08:23:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000503",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000168",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-06-01T08:24:00+00:00",
+    "consumed_quantity": 5.05,
+    "consumption_id": "CONS-000504",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000168",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-06-01T08:25:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000505",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000168",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-06-02T08:26:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000506",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000169",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-06-02T08:27:00+00:00",
+    "consumed_quantity": 7.8,
+    "consumption_id": "CONS-000507",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000169",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-06-03T08:28:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000508",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000170",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-06-03T08:29:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000509",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000170",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-06-03T08:30:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000510",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000170",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-06-03T08:31:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000511",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000171",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-06-03T08:32:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000512",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000171",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-06-03T08:33:00+00:00",
+    "consumed_quantity": 13.0,
+    "consumption_id": "CONS-000513",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000171",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-06-04T08:34:00+00:00",
+    "consumed_quantity": 22.725,
+    "consumption_id": "CONS-000514",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000172",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-06-04T08:35:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000515",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000172",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-06-04T08:36:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000516",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000172",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-06-04T08:37:00+00:00",
+    "consumed_quantity": 23.4,
+    "consumption_id": "CONS-000517",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000172",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-06-05T08:38:00+00:00",
+    "consumed_quantity": 35.35,
+    "consumption_id": "CONS-000518",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000173",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-06-05T08:39:00+00:00",
+    "consumed_quantity": 133.5,
+    "consumption_id": "CONS-000519",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000173",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-06-06T08:40:00+00:00",
+    "consumed_quantity": 7.725,
+    "consumption_id": "CONS-000520",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000174",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-06-06T08:41:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000521",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000174",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-06-06T08:42:00+00:00",
+    "consumed_quantity": 50.5,
+    "consumption_id": "CONS-000522",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000174",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-06-07T08:43:00+00:00",
+    "consumed_quantity": 11.475,
+    "consumption_id": "CONS-000523",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000175",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-06-07T08:44:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000524",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000175",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-06-07T08:45:00+00:00",
+    "consumed_quantity": 78.0,
+    "consumption_id": "CONS-000525",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000175",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-06-07T08:46:00+00:00",
+    "consumed_quantity": 11.3625,
+    "consumption_id": "CONS-000526",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000175",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-06-08T08:47:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000527",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000176",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-06-08T08:48:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000528",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000176",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-06-09T08:49:00+00:00",
+    "consumed_quantity": 19.5,
+    "consumption_id": "CONS-000529",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000177",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-06-09T08:50:00+00:00",
+    "consumed_quantity": 25.25,
+    "consumption_id": "CONS-000530",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000177",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-06-09T08:51:00+00:00",
+    "consumed_quantity": 12.75,
+    "consumption_id": "CONS-000531",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000177",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-06-10T08:52:00+00:00",
+    "consumed_quantity": 231.75,
+    "consumption_id": "CONS-000532",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000178",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-06-10T08:53:00+00:00",
+    "consumed_quantity": 31.2,
+    "consumption_id": "CONS-000533",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000178",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-06-10T08:54:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000534",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000178",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-06-10T08:55:00+00:00",
+    "consumed_quantity": 22.95,
+    "consumption_id": "CONS-000535",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000178",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-06-11T08:56:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000536",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000179",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-06-11T08:57:00+00:00",
+    "consumed_quantity": 18.2,
+    "consumption_id": "CONS-000537",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000179",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-06-12T08:58:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000538",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000180",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-06-12T08:59:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000539",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000180",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-06-12T08:00:00+00:00",
+    "consumed_quantity": 5.15,
+    "consumption_id": "CONS-000540",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000180",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-06-12T08:01:00+00:00",
+    "consumed_quantity": 11.475,
+    "consumption_id": "CONS-000541",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000181",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-06-12T08:02:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000542",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000181",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-06-12T08:03:00+00:00",
+    "consumed_quantity": 7.8,
+    "consumption_id": "CONS-000543",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000181",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-06-13T08:04:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000544",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000182",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-06-13T08:05:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000545",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000182",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-06-13T08:06:00+00:00",
+    "consumed_quantity": 103.0,
+    "consumption_id": "CONS-000546",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000182",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-06-13T08:07:00+00:00",
+    "consumed_quantity": 15.6,
+    "consumption_id": "CONS-000547",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000182",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-06-14T08:08:00+00:00",
+    "consumed_quantity": 25.25,
+    "consumption_id": "CONS-000548",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000183",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-06-14T08:09:00+00:00",
+    "consumed_quantity": 12.75,
+    "consumption_id": "CONS-000549",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000183",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-06-15T08:10:00+00:00",
+    "consumed_quantity": 23.175,
+    "consumption_id": "CONS-000550",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000184",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-06-15T08:11:00+00:00",
+    "consumed_quantity": 31.2,
+    "consumption_id": "CONS-000551",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000184",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-06-15T08:12:00+00:00",
+    "consumed_quantity": 151.5,
+    "consumption_id": "CONS-000552",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000184",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-06-16T08:13:00+00:00",
+    "consumed_quantity": 26.775,
+    "consumption_id": "CONS-000553",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000185",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-06-16T08:14:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000554",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000185",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-06-16T08:15:00+00:00",
+    "consumed_quantity": 182.0,
+    "consumption_id": "CONS-000555",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000185",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-06-16T08:16:00+00:00",
+    "consumed_quantity": 26.5125,
+    "consumption_id": "CONS-000556",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000185",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-06-17T08:17:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000557",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000186",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-06-17T08:18:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000558",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000186",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-06-18T08:19:00+00:00",
+    "consumed_quantity": 11.7,
+    "consumption_id": "CONS-000559",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000187",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-06-18T08:20:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000560",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000187",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-06-18T08:21:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000561",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000187",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-06-19T08:22:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000562",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000188",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-06-19T08:23:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000563",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000188",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-06-19T08:24:00+00:00",
+    "consumed_quantity": 10.1,
+    "consumption_id": "CONS-000564",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000188",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-06-19T08:25:00+00:00",
+    "consumed_quantity": 15.3,
+    "consumption_id": "CONS-000565",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000188",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-06-20T08:26:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000566",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000189",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-06-20T08:27:00+00:00",
+    "consumed_quantity": 13.0,
+    "consumption_id": "CONS-000567",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000189",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-06-21T08:28:00+00:00",
+    "consumed_quantity": 22.725,
+    "consumption_id": "CONS-000568",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000190",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-06-21T08:29:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000569",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000190",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-06-21T08:30:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000570",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000190",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000001",
+    "consumed_at": "2026-06-21T08:31:00+00:00",
+    "consumed_quantity": 26.775,
+    "consumption_id": "CONS-000571",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000022",
+    "production_order_id": "WO-2026-000191",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "consumed_at": "2026-06-21T08:32:00+00:00",
+    "consumed_quantity": 36.05,
+    "consumption_id": "CONS-000572",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000033",
+    "production_order_id": "WO-2026-000191",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "consumed_at": "2026-06-21T08:33:00+00:00",
+    "consumed_quantity": 18.2,
+    "consumption_id": "CONS-000573",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000044",
+    "production_order_id": "WO-2026-000191",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "consumed_at": "2026-06-22T08:34:00+00:00",
+    "consumed_quantity": 7.575,
+    "consumption_id": "CONS-000574",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000063",
+    "production_order_id": "WO-2026-000192",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "consumed_at": "2026-06-22T08:35:00+00:00",
+    "consumed_quantity": 10.2,
+    "consumption_id": "CONS-000575",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000074",
+    "production_order_id": "WO-2026-000192",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "consumed_at": "2026-06-22T08:36:00+00:00",
+    "consumed_quantity": 51.5,
+    "consumption_id": "CONS-000576",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000085",
+    "production_order_id": "WO-2026-000192",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "consumed_at": "2026-06-22T08:37:00+00:00",
+    "consumed_quantity": 7.8,
+    "consumption_id": "CONS-000577",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000096",
+    "production_order_id": "WO-2026-000192",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "consumed_at": "2026-06-23T08:38:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000578",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0004-2026-000014",
+    "production_order_id": "WO-2026-000193",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "consumed_at": "2026-06-23T08:39:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000579",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000025",
+    "production_order_id": "WO-2026-000193",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "consumed_at": "2026-06-24T08:40:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000580",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0005-2026-000045",
+    "production_order_id": "WO-2026-000194",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "consumed_at": "2026-06-24T08:41:00+00:00",
+    "consumed_quantity": 20.8,
+    "consumption_id": "CONS-000581",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000056",
+    "production_order_id": "WO-2026-000194",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "consumed_at": "2026-06-24T08:42:00+00:00",
+    "consumed_quantity": 101.0,
+    "consumption_id": "CONS-000582",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000067",
+    "production_order_id": "WO-2026-000194",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "consumed_at": "2026-06-25T08:43:00+00:00",
+    "consumed_quantity": 19.125,
+    "consumption_id": "CONS-000583",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0006-2026-000086",
+    "production_order_id": "WO-2026-000195",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "consumed_at": "2026-06-25T08:44:00+00:00",
+    "consumed_quantity": 25.75,
+    "consumption_id": "CONS-000584",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000097",
+    "production_order_id": "WO-2026-000195",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "consumed_at": "2026-06-25T08:45:00+00:00",
+    "consumed_quantity": 130.0,
+    "consumption_id": "CONS-000585",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000008",
+    "production_order_id": "WO-2026-000195",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "consumed_at": "2026-06-25T08:46:00+00:00",
+    "consumed_quantity": 18.9375,
+    "consumption_id": "CONS-000586",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000019",
+    "production_order_id": "WO-2026-000195",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "consumed_at": "2026-06-26T08:47:00+00:00",
+    "consumed_quantity": 30.6,
+    "consumption_id": "CONS-000587",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0007-2026-000037",
+    "production_order_id": "WO-2026-000196",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "consumed_at": "2026-06-26T08:48:00+00:00",
+    "consumed_quantity": 154.5,
+    "consumption_id": "CONS-000588",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000048",
+    "production_order_id": "WO-2026-000196",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "consumed_at": "2026-06-27T08:49:00+00:00",
+    "consumed_quantity": 27.3,
+    "consumption_id": "CONS-000589",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0008-2026-000068",
+    "production_order_id": "WO-2026-000197",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "consumed_at": "2026-06-27T08:50:00+00:00",
+    "consumed_quantity": 35.35,
+    "consumption_id": "CONS-000590",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000079",
+    "production_order_id": "WO-2026-000197",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "consumed_at": "2026-06-27T08:51:00+00:00",
+    "consumed_quantity": 17.85,
+    "consumption_id": "CONS-000591",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000090",
+    "production_order_id": "WO-2026-000197",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "consumed_at": "2026-06-28T08:52:00+00:00",
+    "consumed_quantity": 77.25,
+    "consumption_id": "CONS-000592",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0009-2026-000009",
+    "production_order_id": "WO-2026-000198",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "consumed_at": "2026-06-28T08:53:00+00:00",
+    "consumed_quantity": 10.4,
+    "consumption_id": "CONS-000593",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000020",
+    "production_order_id": "WO-2026-000198",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "consumed_at": "2026-06-28T08:54:00+00:00",
+    "consumed_quantity": 5.05,
+    "consumption_id": "CONS-000594",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000021",
+    "production_order_id": "WO-2026-000198",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "consumed_at": "2026-06-28T08:55:00+00:00",
+    "consumed_quantity": 7.65,
+    "consumption_id": "CONS-000595",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000032",
+    "production_order_id": "WO-2026-000198",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "consumed_at": "2026-06-29T08:56:00+00:00",
+    "consumed_quantity": 15.45,
+    "consumption_id": "CONS-000596",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0010-2026-000060",
+    "production_order_id": "WO-2026-000199",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "consumed_at": "2026-06-29T08:57:00+00:00",
+    "consumed_quantity": 7.8,
+    "consumption_id": "CONS-000597",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000061",
+    "production_order_id": "WO-2026-000199",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "consumed_at": "2026-06-30T08:58:00+00:00",
+    "consumed_quantity": 15.15,
+    "consumption_id": "CONS-000598",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0001-2026-000081",
+    "production_order_id": "WO-2026-000200",
+    "uom": "EA"
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "consumed_at": "2026-06-30T08:59:00+00:00",
+    "consumed_quantity": 20.4,
+    "consumption_id": "CONS-000599",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0002-2026-000092",
+    "production_order_id": "WO-2026-000200",
+    "uom": "KG"
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "consumed_at": "2026-06-30T08:00:00+00:00",
+    "consumed_quantity": 10.3,
+    "consumption_id": "CONS-000600",
+    "consumption_status": "COMMITTED",
+    "material_lot_id": "LOT-SUP-0003-2026-000003",
+    "production_order_id": "WO-2026-000200",
+    "uom": "EA"
+  }
+]

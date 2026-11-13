@@ -1,0 +1,6 @@
+process_step_id,step_sequence,step_name,step_type,is_quality_gate,standard_cycle_time_seconds,allowed_machine_type
+STEP-0001,1,Precision CNC Machining,FABRICATION,False,120,CNC_MILL
+STEP-0002,2,Sub-Assembly Insertion,ASSEMBLY,False,45,SMT_PICK_PLACE
+STEP-0003,3,Structural Laser Welding,ASSEMBLY,True,90,LASER_WELDER
+STEP-0004,4,Protective Polymer Coating,TREATMENT,False,180,INJECTION_MOLD
+STEP-0005,5,Automated Quality Gate Testing,TESTING,True,60,OPTICAL_INSPECTOR

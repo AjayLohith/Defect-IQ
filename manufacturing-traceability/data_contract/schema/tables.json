@@ -1,0 +1,248 @@
+{
+  "tables": {
+    "products": {
+      "columns": {
+        "product_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "sku": {"type": "VARCHAR(64)", "unique": true, "nullable": false},
+        "product_name": {"type": "VARCHAR(255)", "nullable": false},
+        "product_type": {"type": "VARCHAR(32)", "nullable": false},
+        "revision": {"type": "VARCHAR(16)", "nullable": false, "default": "A"},
+        "base_uom": {"type": "VARCHAR(16)", "nullable": false, "default": "EA"},
+        "lifecycle_state": {"type": "VARCHAR(32)", "nullable": false, "default": "ACTIVE"},
+        "effective_start_date": {"type": "DATE", "nullable": false},
+        "effective_end_date": {"type": "DATE", "nullable": true},
+        "created_at": {"type": "TIMESTAMPTZ", "nullable": false}
+      }
+    },
+    "boms": {
+      "columns": {
+        "bom_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "product_id": {"type": "VARCHAR(32)", "fk": "products.product_id", "nullable": false},
+        "revision": {"type": "VARCHAR(16)", "nullable": false, "default": "A"},
+        "status": {"type": "VARCHAR(32)", "nullable": false, "default": "ACTIVE"},
+        "effective_start_date": {"type": "DATE", "nullable": false},
+        "effective_end_date": {"type": "DATE", "nullable": true}
+      }
+    },
+    "bom_lines": {
+      "columns": {
+        "bom_line_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "bom_id": {"type": "VARCHAR(32)", "fk": "boms.bom_id", "nullable": false},
+        "material_product_id": {"type": "VARCHAR(32)", "fk": "products.product_id", "nullable": false},
+        "quantity_per_unit": {"type": "NUMERIC(12,4)", "nullable": false},
+        "uom": {"type": "VARCHAR(16)", "nullable": false},
+        "scrap_factor": {"type": "NUMERIC(6,4)", "nullable": false, "default": 0.02},
+        "is_required": {"type": "BOOLEAN", "nullable": false, "default": true},
+        "effective_start_date": {"type": "DATE", "nullable": false},
+        "effective_end_date": {"type": "DATE", "nullable": true}
+      }
+    },
+    "suppliers": {
+      "columns": {
+        "supplier_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "supplier_name": {"type": "VARCHAR(255)", "unique": true, "nullable": false},
+        "supplier_status": {"type": "VARCHAR(32)", "nullable": false, "default": "QUALIFIED"},
+        "supplier_risk_tier": {"type": "VARCHAR(32)", "nullable": false, "default": "TIER_1_LOW"},
+        "country_code": {"type": "VARCHAR(2)", "nullable": false},
+        "lead_time_days": {"type": "INTEGER", "nullable": false, "default": 14},
+        "effective_start_date": {"type": "DATE", "nullable": false},
+        "effective_end_date": {"type": "DATE", "nullable": true}
+      }
+    },
+    "material_lots": {
+      "columns": {
+        "material_lot_id": {"type": "VARCHAR(64)", "pk": true, "nullable": false},
+        "supplier_id": {"type": "VARCHAR(32)", "fk": "suppliers.supplier_id", "nullable": false},
+        "material_product_id": {"type": "VARCHAR(32)", "fk": "products.product_id", "nullable": false},
+        "supplier_batch_code": {"type": "VARCHAR(64)", "nullable": false},
+        "received_date": {"type": "DATE", "nullable": false},
+        "expiry_date": {"type": "DATE", "nullable": false},
+        "received_quantity": {"type": "NUMERIC(14,4)", "nullable": false},
+        "available_quantity": {"type": "NUMERIC(14,4)", "nullable": false},
+        "consumed_quantity": {"type": "NUMERIC(14,4)", "nullable": false, "default": 0.0},
+        "rejected_quantity": {"type": "NUMERIC(14,4)", "nullable": false, "default": 0.0},
+        "quarantined_quantity": {"type": "NUMERIC(14,4)", "nullable": false, "default": 0.0},
+        "uom": {"type": "VARCHAR(16)", "nullable": false},
+        "lot_status": {"type": "VARCHAR(32)", "nullable": false, "default": "RECEIVED"},
+        "incoming_quality_score": {"type": "NUMERIC(5,2)", "nullable": false, "default": 95.0}
+      }
+    },
+    "production_orders": {
+      "columns": {
+        "production_order_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "product_id": {"type": "VARCHAR(32)", "fk": "products.product_id", "nullable": false},
+        "planned_quantity": {"type": "NUMERIC(12,2)", "nullable": false},
+        "completed_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "accepted_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "rework_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "scrap_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "quarantined_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "order_status": {"type": "VARCHAR(32)", "nullable": false, "default": "PLANNED"},
+        "planned_start_date": {"type": "DATE", "nullable": false},
+        "planned_end_date": {"type": "DATE", "nullable": false},
+        "actual_start_date": {"type": "DATE", "nullable": true},
+        "actual_end_date": {"type": "DATE", "nullable": true},
+        "production_lot_code": {"type": "VARCHAR(64)", "unique": true, "nullable": false}
+      }
+    },
+    "material_consumptions": {
+      "columns": {
+        "consumption_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "production_order_id": {"type": "VARCHAR(32)", "fk": "production_orders.production_order_id", "nullable": false},
+        "material_lot_id": {"type": "VARCHAR(64)", "fk": "material_lots.material_lot_id", "nullable": false},
+        "bom_line_id": {"type": "VARCHAR(32)", "fk": "bom_lines.bom_line_id", "nullable": false},
+        "consumed_quantity": {"type": "NUMERIC(14,4)", "nullable": false},
+        "uom": {"type": "VARCHAR(16)", "nullable": false},
+        "consumed_at": {"type": "TIMESTAMPTZ", "nullable": false},
+        "consumption_status": {"type": "VARCHAR(32)", "nullable": false, "default": "COMMITTED"}
+      }
+    },
+    "machines": {
+      "columns": {
+        "machine_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "machine_name": {"type": "VARCHAR(255)", "nullable": false},
+        "machine_type": {"type": "VARCHAR(32)", "nullable": false},
+        "line_code": {"type": "VARCHAR(32)", "nullable": false, "default": "LINE-A"},
+        "machine_status": {"type": "VARCHAR(32)", "nullable": false, "default": "OPERATIONAL"},
+        "calibration_due_date": {"type": "DATE", "nullable": false},
+        "maintenance_risk_score": {"type": "NUMERIC(5,2)", "nullable": false, "default": 10.0}
+      }
+    },
+    "process_steps": {
+      "columns": {
+        "process_step_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "step_sequence": {"type": "INTEGER", "nullable": false},
+        "step_name": {"type": "VARCHAR(255)", "nullable": false},
+        "step_type": {"type": "VARCHAR(32)", "nullable": false},
+        "is_quality_gate": {"type": "BOOLEAN", "nullable": false, "default": false},
+        "standard_cycle_time_seconds": {"type": "INTEGER", "nullable": false, "default": 60},
+        "allowed_machine_type": {"type": "VARCHAR(32)", "nullable": false}
+      }
+    },
+    "process_executions": {
+      "columns": {
+        "process_execution_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "production_order_id": {"type": "VARCHAR(32)", "fk": "production_orders.production_order_id", "nullable": false},
+        "process_step_id": {"type": "VARCHAR(32)", "fk": "process_steps.process_step_id", "nullable": false},
+        "machine_id": {"type": "VARCHAR(32)", "fk": "machines.machine_id", "nullable": false},
+        "execution_start_at": {"type": "TIMESTAMPTZ", "nullable": false},
+        "execution_end_at": {"type": "TIMESTAMPTZ", "nullable": false},
+        "input_quantity": {"type": "NUMERIC(12,2)", "nullable": false},
+        "output_quantity": {"type": "NUMERIC(12,2)", "nullable": false},
+        "rework_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "scrap_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "quarantined_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "execution_status": {"type": "VARCHAR(32)", "nullable": false, "default": "COMPLETED"},
+        "drift_indicator": {"type": "BOOLEAN", "nullable": false, "default": false},
+        "process_measurement": {"type": "NUMERIC(10,3)", "nullable": false}
+      }
+    },
+    "inspection_plans": {
+      "columns": {
+        "inspection_plan_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "product_id": {"type": "VARCHAR(32)", "fk": "products.product_id", "nullable": false},
+        "process_step_id": {"type": "VARCHAR(32)", "fk": "process_steps.process_step_id", "nullable": false},
+        "inspection_type": {"type": "VARCHAR(32)", "nullable": false, "default": "IN_PROCESS"},
+        "sampling_rule": {"type": "VARCHAR(32)", "nullable": false, "default": "ANSI_ASQ_Z1_4"},
+        "acceptance_limit": {"type": "NUMERIC(6,4)", "nullable": false, "default": 0.01},
+        "defect_categories": {"type": "TEXT", "nullable": false, "default": "[]"},
+        "effective_start_date": {"type": "DATE", "nullable": false},
+        "effective_end_date": {"type": "DATE", "nullable": true},
+        "plan_status": {"type": "VARCHAR(32)", "nullable": false, "default": "ACTIVE"}
+      }
+    },
+    "inspection_results": {
+      "columns": {
+        "inspection_result_id": {"type": "VARCHAR(64)", "pk": true, "nullable": false},
+        "inspection_plan_id": {"type": "VARCHAR(32)", "fk": "inspection_plans.inspection_plan_id", "nullable": false},
+        "production_order_id": {"type": "VARCHAR(32)", "fk": "production_orders.production_order_id", "nullable": false},
+        "process_execution_id": {"type": "VARCHAR(32)", "fk": "process_executions.process_execution_id", "nullable": false},
+        "inspected_at": {"type": "TIMESTAMPTZ", "nullable": false},
+        "inspected_quantity": {"type": "NUMERIC(12,2)", "nullable": false},
+        "accepted_quantity": {"type": "NUMERIC(12,2)", "nullable": false},
+        "rejected_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "reworked_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "scrapped_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "quarantined_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "inspection_status": {"type": "VARCHAR(32)", "nullable": false, "default": "COMPLETED"},
+        "disposition": {"type": "VARCHAR(32)", "nullable": false, "default": "ACCEPTED"},
+        "defect_rate": {"type": "NUMERIC(6,4)", "nullable": false, "default": 0.0}
+      }
+    },
+    "defects": {
+      "columns": {
+        "defect_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "inspection_result_id": {"type": "VARCHAR(64)", "fk": "inspection_results.inspection_result_id", "nullable": false},
+        "production_order_id": {"type": "VARCHAR(32)", "fk": "production_orders.production_order_id", "nullable": false},
+        "process_execution_id": {"type": "VARCHAR(32)", "fk": "process_executions.process_execution_id", "nullable": false},
+        "machine_id": {"type": "VARCHAR(32)", "fk": "machines.machine_id", "nullable": false},
+        "material_lot_id": {"type": "VARCHAR(64)", "fk": "material_lots.material_lot_id", "nullable": true},
+        "reported_material_lot_id": {"type": "VARCHAR(64)", "nullable": false},
+        "supplier_id": {"type": "VARCHAR(32)", "fk": "suppliers.supplier_id", "nullable": true},
+        "defect_code": {"type": "VARCHAR(32)", "nullable": false},
+        "defect_category": {"type": "VARCHAR(32)", "nullable": false},
+        "severity": {"type": "VARCHAR(16)", "nullable": false, "default": "MINOR"},
+        "defect_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 1.0},
+        "suspected_source": {"type": "VARCHAR(32)", "nullable": false, "default": "MACHINE"},
+        "detected_at": {"type": "TIMESTAMPTZ", "nullable": false},
+        "defect_status": {"type": "VARCHAR(32)", "nullable": false, "default": "OPEN"}
+      }
+    },
+    "containment_actions": {
+      "columns": {
+        "containment_action_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "defect_id": {"type": "VARCHAR(32)", "fk": "defects.defect_id", "nullable": false},
+        "action_type": {"type": "VARCHAR(32)", "nullable": false, "default": "QUARANTINE_LOT"},
+        "owner_role": {"type": "VARCHAR(32)", "nullable": false, "default": "QUALITY_ENGINEER"},
+        "action_timestamp": {"type": "TIMESTAMPTZ", "nullable": false},
+        "affected_quantity": {"type": "NUMERIC(12,2)", "nullable": false, "default": 0.0},
+        "containment_status": {"type": "VARCHAR(32)", "nullable": false, "default": "ACTIVE"},
+        "notes": {"type": "TEXT", "nullable": true}
+      }
+    },
+    "corrective_actions": {
+      "columns": {
+        "corrective_action_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "defect_id": {"type": "VARCHAR(32)", "fk": "defects.defect_id", "nullable": false},
+        "root_cause_category": {"type": "VARCHAR(32)", "nullable": false},
+        "root_cause_description": {"type": "TEXT", "nullable": false},
+        "owner_role": {"type": "VARCHAR(32)", "nullable": false, "default": "QUALITY_ENGINEER"},
+        "due_date": {"type": "DATE", "nullable": false},
+        "implementation_date": {"type": "DATE", "nullable": true},
+        "corrective_action_status": {"type": "VARCHAR(32)", "nullable": false, "default": "OPEN"},
+        "effectiveness_target": {"type": "VARCHAR(255)", "nullable": false}
+      }
+    },
+    "capa_verifications": {
+      "columns": {
+        "verification_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "corrective_action_id": {"type": "VARCHAR(32)", "fk": "corrective_actions.corrective_action_id", "nullable": false},
+        "verification_date": {"type": "DATE", "nullable": false},
+        "verification_method": {"type": "VARCHAR(32)", "nullable": false, "default": "AUDIT_CHECK"},
+        "verification_result": {"type": "VARCHAR(16)", "nullable": false, "default": "PASSED"},
+        "verified_by_role": {"type": "VARCHAR(32)", "nullable": false, "default": "QUALITY_ENGINEER"},
+        "evidence_reference": {"type": "VARCHAR(255)", "nullable": false}
+      }
+    },
+    "state_events": {
+      "columns": {
+        "event_id": {"type": "VARCHAR(32)", "pk": true, "nullable": false},
+        "entity_type": {"type": "VARCHAR(32)", "nullable": false},
+        "entity_id": {"type": "VARCHAR(64)", "nullable": false},
+        "material_lot_id": {"type": "VARCHAR(64)", "fk": "material_lots.material_lot_id", "nullable": true},
+        "production_order_id": {"type": "VARCHAR(32)", "fk": "production_orders.production_order_id", "nullable": true},
+        "inspection_result_id": {"type": "VARCHAR(64)", "fk": "inspection_results.inspection_result_id", "nullable": true},
+        "defect_id": {"type": "VARCHAR(32)", "fk": "defects.defect_id", "nullable": true},
+        "corrective_action_id": {"type": "VARCHAR(32)", "fk": "corrective_actions.corrective_action_id", "nullable": true},
+        "event_sequence": {"type": "INTEGER", "nullable": false},
+        "previous_state": {"type": "VARCHAR(32)", "nullable": true},
+        "new_state": {"type": "VARCHAR(32)", "nullable": false},
+        "event_timestamp": {"type": "TIMESTAMPTZ", "nullable": false},
+        "actor_role": {"type": "VARCHAR(32)", "nullable": false, "default": "SYSTEM"},
+        "reason_code": {"type": "VARCHAR(64)", "nullable": false, "default": "NORMAL_FLOW"},
+        "event_notes": {"type": "TEXT", "nullable": true}
+      }
+    }
+  }
+}
+

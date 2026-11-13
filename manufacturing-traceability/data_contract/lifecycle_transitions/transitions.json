@@ -1,0 +1,54 @@
+{
+  "MaterialLot": {
+    "initial": "RECEIVED",
+    "transitions": {
+      "RECEIVED": ["RELEASED", "QUARANTINED"],
+      "RELEASED": ["PARTIALLY_CONSUMED", "CONSUMED", "QUARANTINED"],
+      "QUARANTINED": ["RELEASED", "REJECTED"],
+      "PARTIALLY_CONSUMED": ["CONSUMED", "QUARANTINED"],
+      "CONSUMED": [],
+      "REJECTED": []
+    }
+  },
+  "ProductionOrder": {
+    "initial": "PLANNED",
+    "transitions": {
+      "PLANNED": ["RELEASED"],
+      "RELEASED": ["IN_PROGRESS"],
+      "IN_PROGRESS": ["ON_HOLD", "REWORK", "COMPLETED", "SCRAPPED"],
+      "ON_HOLD": ["IN_PROGRESS"],
+      "REWORK": ["IN_PROGRESS", "SCRAPPED"],
+      "COMPLETED": [],
+      "SCRAPPED": []
+    }
+  },
+  "InspectionResult": {
+    "initial": "PENDING",
+    "transitions": {
+      "PENDING": ["COMPLETED"],
+      "COMPLETED": []
+    }
+  },
+  "Defect": {
+    "initial": "OPEN",
+    "transitions": {
+      "OPEN": ["CONTAINED", "UNDER_INVESTIGATION"],
+      "CONTAINED": ["UNDER_INVESTIGATION"],
+      "UNDER_INVESTIGATION": ["CAPA_IN_PROGRESS", "CLOSED"],
+      "CAPA_IN_PROGRESS": ["VERIFIED"],
+      "VERIFIED": ["CLOSED"],
+      "CLOSED": []
+    }
+  },
+  "CorrectiveAction": {
+    "initial": "OPEN",
+    "transitions": {
+      "OPEN": ["IMPLEMENTED"],
+      "IMPLEMENTED": ["VERIFICATION_PENDING"],
+      "VERIFICATION_PENDING": ["VERIFIED", "IMPLEMENTED"],
+      "VERIFIED": ["CLOSED"],
+      "CLOSED": []
+    }
+  }
+}
+
