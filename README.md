@@ -206,7 +206,6 @@ manufacturing-traceability/
 - **Single-Tenant Setup**: Intended for local evaluation without external OAuth2/LDAP infrastructure.
 
 ---
-
 ## 11. Reproducibility Statement
 
 Data generation in TraceFlow is fully deterministic. Given the master seed `20261022` and base epoch `2026-01-01T00:00:00Z`, the generator produces identical row counts, timestamps, relational keys, and SHA-256 checksums across independent runs and operating systems. All timestamps are calculated from deterministic offsets without using system wall-clock time.
