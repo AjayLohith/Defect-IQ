@@ -1,10 +1,11 @@
 import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from backend.app.api.v1.router import api_router
 
 app = FastAPI(
-    title="Manufacturing Defect-Traceability API",
-    description="Deterministic manufacturing defect-traceability and quality management system.",
+    title="TraceFlow // Manufacturing Defect-Traceability API",
+    description="Deterministic manufacturing defect-traceability, blast-radius isolation, and quality management engine.",
     version="1.0.0",
 )
 
@@ -19,7 +20,7 @@ app.add_middleware(
 
 @app.get("/api/v1/health", tags=["System"])
 def health_check():
-    """Basic health check endpoint."""
+    """System health and deterministic engine environment check."""
     return {
         "status": "healthy",
         "service": "traceflow-api",
@@ -29,7 +30,9 @@ def health_check():
     }
 
 
+# Include all v1 API routes
+app.include_router(api_router)
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("backend.app.main:app", host="0.0.0.0", port=8000, reload=True)
-

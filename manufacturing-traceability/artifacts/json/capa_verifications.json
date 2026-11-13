@@ -1,1 +1,5294 @@
-[]
+[
+  {
+    "corrective_action_id": "CAPA-2026-000001",
+    "evidence_reference": "DOC-AUDIT-2026-0001",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000001",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000002",
+    "evidence_reference": "DOC-AUDIT-2026-0002",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000002",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000003",
+    "evidence_reference": "DOC-AUDIT-2026-0003",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000003",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000004",
+    "evidence_reference": "DOC-AUDIT-2026-0004",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000004",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000006",
+    "evidence_reference": "DOC-AUDIT-2026-0005",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000005",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000007",
+    "evidence_reference": "DOC-AUDIT-2026-0006",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000006",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000008",
+    "evidence_reference": "DOC-AUDIT-2026-0007",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000007",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000009",
+    "evidence_reference": "DOC-AUDIT-2026-0008",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000008",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000011",
+    "evidence_reference": "DOC-AUDIT-2026-0009",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000009",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000012",
+    "evidence_reference": "DOC-AUDIT-2026-0010",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000010",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000013",
+    "evidence_reference": "DOC-AUDIT-2026-0011",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000011",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000014",
+    "evidence_reference": "DOC-AUDIT-2026-0012",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000012",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000016",
+    "evidence_reference": "DOC-AUDIT-2026-0013",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000013",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000017",
+    "evidence_reference": "DOC-AUDIT-2026-0014",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000014",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000018",
+    "evidence_reference": "DOC-AUDIT-2026-0015",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000015",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000019",
+    "evidence_reference": "DOC-AUDIT-2026-0016",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000016",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000021",
+    "evidence_reference": "DOC-AUDIT-2026-0017",
+    "verification_date": "2026-01-18",
+    "verification_id": "VERIF-2026-000017",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000022",
+    "evidence_reference": "DOC-AUDIT-2026-0018",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000018",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000023",
+    "evidence_reference": "DOC-AUDIT-2026-0019",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000019",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000024",
+    "evidence_reference": "DOC-AUDIT-2026-0020",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000020",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000026",
+    "evidence_reference": "DOC-AUDIT-2026-0021",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000021",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000027",
+    "evidence_reference": "DOC-AUDIT-2026-0022",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000022",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000028",
+    "evidence_reference": "DOC-AUDIT-2026-0023",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000023",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000029",
+    "evidence_reference": "DOC-AUDIT-2026-0024",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000024",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000031",
+    "evidence_reference": "DOC-AUDIT-2026-0025",
+    "verification_date": "2026-01-19",
+    "verification_id": "VERIF-2026-000025",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000032",
+    "evidence_reference": "DOC-AUDIT-2026-0026",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000026",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000033",
+    "evidence_reference": "DOC-AUDIT-2026-0027",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000027",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000034",
+    "evidence_reference": "DOC-AUDIT-2026-0028",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000028",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000036",
+    "evidence_reference": "DOC-AUDIT-2026-0029",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000029",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000037",
+    "evidence_reference": "DOC-AUDIT-2026-0030",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000030",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000038",
+    "evidence_reference": "DOC-AUDIT-2026-0031",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000031",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000039",
+    "evidence_reference": "DOC-AUDIT-2026-0032",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000032",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000041",
+    "evidence_reference": "DOC-AUDIT-2026-0033",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000033",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000042",
+    "evidence_reference": "DOC-AUDIT-2026-0034",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000034",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000043",
+    "evidence_reference": "DOC-AUDIT-2026-0035",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000035",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000044",
+    "evidence_reference": "DOC-AUDIT-2026-0036",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000036",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000046",
+    "evidence_reference": "DOC-AUDIT-2026-0037",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000037",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000047",
+    "evidence_reference": "DOC-AUDIT-2026-0038",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000038",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000048",
+    "evidence_reference": "DOC-AUDIT-2026-0039",
+    "verification_date": "2026-01-21",
+    "verification_id": "VERIF-2026-000039",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000049",
+    "evidence_reference": "DOC-AUDIT-2026-0040",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000040",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000051",
+    "evidence_reference": "DOC-AUDIT-2026-0041",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000041",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000052",
+    "evidence_reference": "DOC-AUDIT-2026-0042",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000042",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000053",
+    "evidence_reference": "DOC-AUDIT-2026-0043",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000043",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000054",
+    "evidence_reference": "DOC-AUDIT-2026-0044",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000044",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000056",
+    "evidence_reference": "DOC-AUDIT-2026-0045",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000045",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000057",
+    "evidence_reference": "DOC-AUDIT-2026-0046",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000046",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000058",
+    "evidence_reference": "DOC-AUDIT-2026-0047",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000047",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000059",
+    "evidence_reference": "DOC-AUDIT-2026-0048",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000048",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000061",
+    "evidence_reference": "DOC-AUDIT-2026-0049",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000049",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000062",
+    "evidence_reference": "DOC-AUDIT-2026-0050",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000050",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000063",
+    "evidence_reference": "DOC-AUDIT-2026-0051",
+    "verification_date": "2026-01-22",
+    "verification_id": "VERIF-2026-000051",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000064",
+    "evidence_reference": "DOC-AUDIT-2026-0052",
+    "verification_date": "2026-01-28",
+    "verification_id": "VERIF-2026-000052",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000066",
+    "evidence_reference": "DOC-AUDIT-2026-0053",
+    "verification_date": "2026-01-28",
+    "verification_id": "VERIF-2026-000053",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000067",
+    "evidence_reference": "DOC-AUDIT-2026-0054",
+    "verification_date": "2026-01-28",
+    "verification_id": "VERIF-2026-000054",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000068",
+    "evidence_reference": "DOC-AUDIT-2026-0055",
+    "verification_date": "2026-01-28",
+    "verification_id": "VERIF-2026-000055",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000069",
+    "evidence_reference": "DOC-AUDIT-2026-0056",
+    "verification_date": "2026-01-28",
+    "verification_id": "VERIF-2026-000056",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000071",
+    "evidence_reference": "DOC-AUDIT-2026-0057",
+    "verification_date": "2026-01-29",
+    "verification_id": "VERIF-2026-000057",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000072",
+    "evidence_reference": "DOC-AUDIT-2026-0058",
+    "verification_date": "2026-01-29",
+    "verification_id": "VERIF-2026-000058",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000073",
+    "evidence_reference": "DOC-AUDIT-2026-0059",
+    "verification_date": "2026-01-29",
+    "verification_id": "VERIF-2026-000059",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000074",
+    "evidence_reference": "DOC-AUDIT-2026-0060",
+    "verification_date": "2026-01-29",
+    "verification_id": "VERIF-2026-000060",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000076",
+    "evidence_reference": "DOC-AUDIT-2026-0061",
+    "verification_date": "2026-01-29",
+    "verification_id": "VERIF-2026-000061",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000077",
+    "evidence_reference": "DOC-AUDIT-2026-0062",
+    "verification_date": "2026-01-29",
+    "verification_id": "VERIF-2026-000062",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000078",
+    "evidence_reference": "DOC-AUDIT-2026-0063",
+    "verification_date": "2026-01-30",
+    "verification_id": "VERIF-2026-000063",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000079",
+    "evidence_reference": "DOC-AUDIT-2026-0064",
+    "verification_date": "2026-01-30",
+    "verification_id": "VERIF-2026-000064",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000081",
+    "evidence_reference": "DOC-AUDIT-2026-0065",
+    "verification_date": "2026-01-30",
+    "verification_id": "VERIF-2026-000065",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000082",
+    "evidence_reference": "DOC-AUDIT-2026-0066",
+    "verification_date": "2026-01-30",
+    "verification_id": "VERIF-2026-000066",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000083",
+    "evidence_reference": "DOC-AUDIT-2026-0067",
+    "verification_date": "2026-01-30",
+    "verification_id": "VERIF-2026-000067",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000084",
+    "evidence_reference": "DOC-AUDIT-2026-0068",
+    "verification_date": "2026-01-31",
+    "verification_id": "VERIF-2026-000068",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000086",
+    "evidence_reference": "DOC-AUDIT-2026-0069",
+    "verification_date": "2026-01-31",
+    "verification_id": "VERIF-2026-000069",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000087",
+    "evidence_reference": "DOC-AUDIT-2026-0070",
+    "verification_date": "2026-01-31",
+    "verification_id": "VERIF-2026-000070",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000088",
+    "evidence_reference": "DOC-AUDIT-2026-0071",
+    "verification_date": "2026-02-01",
+    "verification_id": "VERIF-2026-000071",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000089",
+    "evidence_reference": "DOC-AUDIT-2026-0072",
+    "verification_date": "2026-02-01",
+    "verification_id": "VERIF-2026-000072",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000091",
+    "evidence_reference": "DOC-AUDIT-2026-0073",
+    "verification_date": "2026-02-01",
+    "verification_id": "VERIF-2026-000073",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000092",
+    "evidence_reference": "DOC-AUDIT-2026-0074",
+    "verification_date": "2026-02-02",
+    "verification_id": "VERIF-2026-000074",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000093",
+    "evidence_reference": "DOC-AUDIT-2026-0075",
+    "verification_date": "2026-02-02",
+    "verification_id": "VERIF-2026-000075",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000094",
+    "evidence_reference": "DOC-AUDIT-2026-0076",
+    "verification_date": "2026-02-02",
+    "verification_id": "VERIF-2026-000076",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000096",
+    "evidence_reference": "DOC-AUDIT-2026-0077",
+    "verification_date": "2026-02-08",
+    "verification_id": "VERIF-2026-000077",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000097",
+    "evidence_reference": "DOC-AUDIT-2026-0078",
+    "verification_date": "2026-02-08",
+    "verification_id": "VERIF-2026-000078",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000098",
+    "evidence_reference": "DOC-AUDIT-2026-0079",
+    "verification_date": "2026-02-08",
+    "verification_id": "VERIF-2026-000079",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000099",
+    "evidence_reference": "DOC-AUDIT-2026-0080",
+    "verification_date": "2026-02-08",
+    "verification_id": "VERIF-2026-000080",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000101",
+    "evidence_reference": "DOC-AUDIT-2026-0081",
+    "verification_date": "2026-02-08",
+    "verification_id": "VERIF-2026-000081",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000102",
+    "evidence_reference": "DOC-AUDIT-2026-0082",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000082",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000103",
+    "evidence_reference": "DOC-AUDIT-2026-0083",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000083",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000104",
+    "evidence_reference": "DOC-AUDIT-2026-0084",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000084",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000106",
+    "evidence_reference": "DOC-AUDIT-2026-0085",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000085",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000107",
+    "evidence_reference": "DOC-AUDIT-2026-0086",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000086",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000108",
+    "evidence_reference": "DOC-AUDIT-2026-0087",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000087",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000109",
+    "evidence_reference": "DOC-AUDIT-2026-0088",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000088",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000111",
+    "evidence_reference": "DOC-AUDIT-2026-0089",
+    "verification_date": "2026-02-09",
+    "verification_id": "VERIF-2026-000089",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000112",
+    "evidence_reference": "DOC-AUDIT-2026-0090",
+    "verification_date": "2026-02-10",
+    "verification_id": "VERIF-2026-000090",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000113",
+    "evidence_reference": "DOC-AUDIT-2026-0091",
+    "verification_date": "2026-02-10",
+    "verification_id": "VERIF-2026-000091",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000114",
+    "evidence_reference": "DOC-AUDIT-2026-0092",
+    "verification_date": "2026-02-10",
+    "verification_id": "VERIF-2026-000092",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000116",
+    "evidence_reference": "DOC-AUDIT-2026-0093",
+    "verification_date": "2026-02-11",
+    "verification_id": "VERIF-2026-000093",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000117",
+    "evidence_reference": "DOC-AUDIT-2026-0094",
+    "verification_date": "2026-02-11",
+    "verification_id": "VERIF-2026-000094",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000118",
+    "evidence_reference": "DOC-AUDIT-2026-0095",
+    "verification_date": "2026-02-11",
+    "verification_id": "VERIF-2026-000095",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000119",
+    "evidence_reference": "DOC-AUDIT-2026-0096",
+    "verification_date": "2026-02-11",
+    "verification_id": "VERIF-2026-000096",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000121",
+    "evidence_reference": "DOC-AUDIT-2026-0097",
+    "verification_date": "2026-02-12",
+    "verification_id": "VERIF-2026-000097",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000122",
+    "evidence_reference": "DOC-AUDIT-2026-0098",
+    "verification_date": "2026-02-12",
+    "verification_id": "VERIF-2026-000098",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000123",
+    "evidence_reference": "DOC-AUDIT-2026-0099",
+    "verification_date": "2026-02-12",
+    "verification_id": "VERIF-2026-000099",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000124",
+    "evidence_reference": "DOC-AUDIT-2026-0100",
+    "verification_date": "2026-02-12",
+    "verification_id": "VERIF-2026-000100",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000126",
+    "evidence_reference": "DOC-AUDIT-2026-0101",
+    "verification_date": "2026-02-13",
+    "verification_id": "VERIF-2026-000101",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000127",
+    "evidence_reference": "DOC-AUDIT-2026-0102",
+    "verification_date": "2026-02-13",
+    "verification_id": "VERIF-2026-000102",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000128",
+    "evidence_reference": "DOC-AUDIT-2026-0103",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000103",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000129",
+    "evidence_reference": "DOC-AUDIT-2026-0104",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000104",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000131",
+    "evidence_reference": "DOC-AUDIT-2026-0105",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000105",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000132",
+    "evidence_reference": "DOC-AUDIT-2026-0106",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000106",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000133",
+    "evidence_reference": "DOC-AUDIT-2026-0107",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000107",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000134",
+    "evidence_reference": "DOC-AUDIT-2026-0108",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000108",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000136",
+    "evidence_reference": "DOC-AUDIT-2026-0109",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000109",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000137",
+    "evidence_reference": "DOC-AUDIT-2026-0110",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000110",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000138",
+    "evidence_reference": "DOC-AUDIT-2026-0111",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000111",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000139",
+    "evidence_reference": "DOC-AUDIT-2026-0112",
+    "verification_date": "2026-02-17",
+    "verification_id": "VERIF-2026-000112",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000141",
+    "evidence_reference": "DOC-AUDIT-2026-0113",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000113",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000142",
+    "evidence_reference": "DOC-AUDIT-2026-0114",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000114",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000143",
+    "evidence_reference": "DOC-AUDIT-2026-0115",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000115",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000144",
+    "evidence_reference": "DOC-AUDIT-2026-0116",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000116",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000146",
+    "evidence_reference": "DOC-AUDIT-2026-0117",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000117",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000147",
+    "evidence_reference": "DOC-AUDIT-2026-0118",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000118",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000148",
+    "evidence_reference": "DOC-AUDIT-2026-0119",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000119",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000149",
+    "evidence_reference": "DOC-AUDIT-2026-0120",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000120",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000151",
+    "evidence_reference": "DOC-AUDIT-2026-0121",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000121",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000152",
+    "evidence_reference": "DOC-AUDIT-2026-0122",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000122",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000153",
+    "evidence_reference": "DOC-AUDIT-2026-0123",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000123",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000154",
+    "evidence_reference": "DOC-AUDIT-2026-0124",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000124",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000156",
+    "evidence_reference": "DOC-AUDIT-2026-0125",
+    "verification_date": "2026-02-18",
+    "verification_id": "VERIF-2026-000125",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000157",
+    "evidence_reference": "DOC-AUDIT-2026-0126",
+    "verification_date": "2026-02-19",
+    "verification_id": "VERIF-2026-000126",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000158",
+    "evidence_reference": "DOC-AUDIT-2026-0127",
+    "verification_date": "2026-02-19",
+    "verification_id": "VERIF-2026-000127",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000159",
+    "evidence_reference": "DOC-AUDIT-2026-0128",
+    "verification_date": "2026-02-19",
+    "verification_id": "VERIF-2026-000128",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000161",
+    "evidence_reference": "DOC-AUDIT-2026-0129",
+    "verification_date": "2026-02-20",
+    "verification_id": "VERIF-2026-000129",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000162",
+    "evidence_reference": "DOC-AUDIT-2026-0130",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000130",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000163",
+    "evidence_reference": "DOC-AUDIT-2026-0131",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000131",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000164",
+    "evidence_reference": "DOC-AUDIT-2026-0132",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000132",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000166",
+    "evidence_reference": "DOC-AUDIT-2026-0133",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000133",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000167",
+    "evidence_reference": "DOC-AUDIT-2026-0134",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000134",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000168",
+    "evidence_reference": "DOC-AUDIT-2026-0135",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000135",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000169",
+    "evidence_reference": "DOC-AUDIT-2026-0136",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000136",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000171",
+    "evidence_reference": "DOC-AUDIT-2026-0137",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000137",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000172",
+    "evidence_reference": "DOC-AUDIT-2026-0138",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000138",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000173",
+    "evidence_reference": "DOC-AUDIT-2026-0139",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000139",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000174",
+    "evidence_reference": "DOC-AUDIT-2026-0140",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000140",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000176",
+    "evidence_reference": "DOC-AUDIT-2026-0141",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000141",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000177",
+    "evidence_reference": "DOC-AUDIT-2026-0142",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000142",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000178",
+    "evidence_reference": "DOC-AUDIT-2026-0143",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000143",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000179",
+    "evidence_reference": "DOC-AUDIT-2026-0144",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000144",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000181",
+    "evidence_reference": "DOC-AUDIT-2026-0145",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000145",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000182",
+    "evidence_reference": "DOC-AUDIT-2026-0146",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000146",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000183",
+    "evidence_reference": "DOC-AUDIT-2026-0147",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000147",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000184",
+    "evidence_reference": "DOC-AUDIT-2026-0148",
+    "verification_date": "2026-02-21",
+    "verification_id": "VERIF-2026-000148",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000186",
+    "evidence_reference": "DOC-AUDIT-2026-0149",
+    "verification_date": "2026-02-22",
+    "verification_id": "VERIF-2026-000149",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000187",
+    "evidence_reference": "DOC-AUDIT-2026-0150",
+    "verification_date": "2026-02-22",
+    "verification_id": "VERIF-2026-000150",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000188",
+    "evidence_reference": "DOC-AUDIT-2026-0151",
+    "verification_date": "2026-02-22",
+    "verification_id": "VERIF-2026-000151",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000189",
+    "evidence_reference": "DOC-AUDIT-2026-0152",
+    "verification_date": "2026-02-23",
+    "verification_id": "VERIF-2026-000152",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000191",
+    "evidence_reference": "DOC-AUDIT-2026-0153",
+    "verification_date": "2026-02-23",
+    "verification_id": "VERIF-2026-000153",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000192",
+    "evidence_reference": "DOC-AUDIT-2026-0154",
+    "verification_date": "2026-03-01",
+    "verification_id": "VERIF-2026-000154",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000193",
+    "evidence_reference": "DOC-AUDIT-2026-0155",
+    "verification_date": "2026-03-01",
+    "verification_id": "VERIF-2026-000155",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000194",
+    "evidence_reference": "DOC-AUDIT-2026-0156",
+    "verification_date": "2026-03-01",
+    "verification_id": "VERIF-2026-000156",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000196",
+    "evidence_reference": "DOC-AUDIT-2026-0157",
+    "verification_date": "2026-03-01",
+    "verification_id": "VERIF-2026-000157",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000197",
+    "evidence_reference": "DOC-AUDIT-2026-0158",
+    "verification_date": "2026-03-01",
+    "verification_id": "VERIF-2026-000158",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000198",
+    "evidence_reference": "DOC-AUDIT-2026-0159",
+    "verification_date": "2026-03-01",
+    "verification_id": "VERIF-2026-000159",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000199",
+    "evidence_reference": "DOC-AUDIT-2026-0160",
+    "verification_date": "2026-03-02",
+    "verification_id": "VERIF-2026-000160",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000201",
+    "evidence_reference": "DOC-AUDIT-2026-0161",
+    "verification_date": "2026-03-02",
+    "verification_id": "VERIF-2026-000161",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000202",
+    "evidence_reference": "DOC-AUDIT-2026-0162",
+    "verification_date": "2026-03-02",
+    "verification_id": "VERIF-2026-000162",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000203",
+    "evidence_reference": "DOC-AUDIT-2026-0163",
+    "verification_date": "2026-03-02",
+    "verification_id": "VERIF-2026-000163",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000204",
+    "evidence_reference": "DOC-AUDIT-2026-0164",
+    "verification_date": "2026-03-02",
+    "verification_id": "VERIF-2026-000164",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000206",
+    "evidence_reference": "DOC-AUDIT-2026-0165",
+    "verification_date": "2026-03-02",
+    "verification_id": "VERIF-2026-000165",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000207",
+    "evidence_reference": "DOC-AUDIT-2026-0166",
+    "verification_date": "2026-03-03",
+    "verification_id": "VERIF-2026-000166",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000208",
+    "evidence_reference": "DOC-AUDIT-2026-0167",
+    "verification_date": "2026-03-03",
+    "verification_id": "VERIF-2026-000167",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000209",
+    "evidence_reference": "DOC-AUDIT-2026-0168",
+    "verification_date": "2026-03-03",
+    "verification_id": "VERIF-2026-000168",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000211",
+    "evidence_reference": "DOC-AUDIT-2026-0169",
+    "verification_date": "2026-03-03",
+    "verification_id": "VERIF-2026-000169",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000212",
+    "evidence_reference": "DOC-AUDIT-2026-0170",
+    "verification_date": "2026-03-03",
+    "verification_id": "VERIF-2026-000170",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000213",
+    "evidence_reference": "DOC-AUDIT-2026-0171",
+    "verification_date": "2026-03-04",
+    "verification_id": "VERIF-2026-000171",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000214",
+    "evidence_reference": "DOC-AUDIT-2026-0172",
+    "verification_date": "2026-03-04",
+    "verification_id": "VERIF-2026-000172",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000216",
+    "evidence_reference": "DOC-AUDIT-2026-0173",
+    "verification_date": "2026-03-04",
+    "verification_id": "VERIF-2026-000173",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000217",
+    "evidence_reference": "DOC-AUDIT-2026-0174",
+    "verification_date": "2026-03-05",
+    "verification_id": "VERIF-2026-000174",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000218",
+    "evidence_reference": "DOC-AUDIT-2026-0175",
+    "verification_date": "2026-03-05",
+    "verification_id": "VERIF-2026-000175",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000219",
+    "evidence_reference": "DOC-AUDIT-2026-0176",
+    "verification_date": "2026-03-05",
+    "verification_id": "VERIF-2026-000176",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000221",
+    "evidence_reference": "DOC-AUDIT-2026-0177",
+    "verification_date": "2026-03-06",
+    "verification_id": "VERIF-2026-000177",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000222",
+    "evidence_reference": "DOC-AUDIT-2026-0178",
+    "verification_date": "2026-03-06",
+    "verification_id": "VERIF-2026-000178",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000223",
+    "evidence_reference": "DOC-AUDIT-2026-0179",
+    "verification_date": "2026-03-06",
+    "verification_id": "VERIF-2026-000179",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000224",
+    "evidence_reference": "DOC-AUDIT-2026-0180",
+    "verification_date": "2026-03-12",
+    "verification_id": "VERIF-2026-000180",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000226",
+    "evidence_reference": "DOC-AUDIT-2026-0181",
+    "verification_date": "2026-03-12",
+    "verification_id": "VERIF-2026-000181",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000227",
+    "evidence_reference": "DOC-AUDIT-2026-0182",
+    "verification_date": "2026-03-12",
+    "verification_id": "VERIF-2026-000182",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000228",
+    "evidence_reference": "DOC-AUDIT-2026-0183",
+    "verification_date": "2026-03-12",
+    "verification_id": "VERIF-2026-000183",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000229",
+    "evidence_reference": "DOC-AUDIT-2026-0184",
+    "verification_date": "2026-03-12",
+    "verification_id": "VERIF-2026-000184",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000231",
+    "evidence_reference": "DOC-AUDIT-2026-0185",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000185",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000232",
+    "evidence_reference": "DOC-AUDIT-2026-0186",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000186",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000233",
+    "evidence_reference": "DOC-AUDIT-2026-0187",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000187",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000234",
+    "evidence_reference": "DOC-AUDIT-2026-0188",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000188",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000236",
+    "evidence_reference": "DOC-AUDIT-2026-0189",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000189",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000237",
+    "evidence_reference": "DOC-AUDIT-2026-0190",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000190",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000238",
+    "evidence_reference": "DOC-AUDIT-2026-0191",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000191",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000239",
+    "evidence_reference": "DOC-AUDIT-2026-0192",
+    "verification_date": "2026-03-13",
+    "verification_id": "VERIF-2026-000192",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000241",
+    "evidence_reference": "DOC-AUDIT-2026-0193",
+    "verification_date": "2026-03-14",
+    "verification_id": "VERIF-2026-000193",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000242",
+    "evidence_reference": "DOC-AUDIT-2026-0194",
+    "verification_date": "2026-03-14",
+    "verification_id": "VERIF-2026-000194",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000243",
+    "evidence_reference": "DOC-AUDIT-2026-0195",
+    "verification_date": "2026-03-14",
+    "verification_id": "VERIF-2026-000195",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000244",
+    "evidence_reference": "DOC-AUDIT-2026-0196",
+    "verification_date": "2026-03-14",
+    "verification_id": "VERIF-2026-000196",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000246",
+    "evidence_reference": "DOC-AUDIT-2026-0197",
+    "verification_date": "2026-03-15",
+    "verification_id": "VERIF-2026-000197",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000247",
+    "evidence_reference": "DOC-AUDIT-2026-0198",
+    "verification_date": "2026-03-15",
+    "verification_id": "VERIF-2026-000198",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000248",
+    "evidence_reference": "DOC-AUDIT-2026-0199",
+    "verification_date": "2026-03-15",
+    "verification_id": "VERIF-2026-000199",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000249",
+    "evidence_reference": "DOC-AUDIT-2026-0200",
+    "verification_date": "2026-03-16",
+    "verification_id": "VERIF-2026-000200",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000251",
+    "evidence_reference": "DOC-AUDIT-2026-0201",
+    "verification_date": "2026-03-16",
+    "verification_id": "VERIF-2026-000201",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000252",
+    "evidence_reference": "DOC-AUDIT-2026-0202",
+    "verification_date": "2026-03-16",
+    "verification_id": "VERIF-2026-000202",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000253",
+    "evidence_reference": "DOC-AUDIT-2026-0203",
+    "verification_date": "2026-03-16",
+    "verification_id": "VERIF-2026-000203",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000254",
+    "evidence_reference": "DOC-AUDIT-2026-0204",
+    "verification_date": "2026-03-16",
+    "verification_id": "VERIF-2026-000204",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000256",
+    "evidence_reference": "DOC-AUDIT-2026-0205",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000205",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000257",
+    "evidence_reference": "DOC-AUDIT-2026-0206",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000206",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000258",
+    "evidence_reference": "DOC-AUDIT-2026-0207",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000207",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000259",
+    "evidence_reference": "DOC-AUDIT-2026-0208",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000208",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000261",
+    "evidence_reference": "DOC-AUDIT-2026-0209",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000209",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000262",
+    "evidence_reference": "DOC-AUDIT-2026-0210",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000210",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000263",
+    "evidence_reference": "DOC-AUDIT-2026-0211",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000211",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000264",
+    "evidence_reference": "DOC-AUDIT-2026-0212",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000212",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000266",
+    "evidence_reference": "DOC-AUDIT-2026-0213",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000213",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000267",
+    "evidence_reference": "DOC-AUDIT-2026-0214",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000214",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000268",
+    "evidence_reference": "DOC-AUDIT-2026-0215",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000215",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000269",
+    "evidence_reference": "DOC-AUDIT-2026-0216",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000216",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000271",
+    "evidence_reference": "DOC-AUDIT-2026-0217",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000217",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000272",
+    "evidence_reference": "DOC-AUDIT-2026-0218",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000218",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000273",
+    "evidence_reference": "DOC-AUDIT-2026-0219",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000219",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000274",
+    "evidence_reference": "DOC-AUDIT-2026-0220",
+    "verification_date": "2026-03-20",
+    "verification_id": "VERIF-2026-000220",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000276",
+    "evidence_reference": "DOC-AUDIT-2026-0221",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000221",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000277",
+    "evidence_reference": "DOC-AUDIT-2026-0222",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000222",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000278",
+    "evidence_reference": "DOC-AUDIT-2026-0223",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000223",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000279",
+    "evidence_reference": "DOC-AUDIT-2026-0224",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000224",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000281",
+    "evidence_reference": "DOC-AUDIT-2026-0225",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000225",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000282",
+    "evidence_reference": "DOC-AUDIT-2026-0226",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000226",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000283",
+    "evidence_reference": "DOC-AUDIT-2026-0227",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000227",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000284",
+    "evidence_reference": "DOC-AUDIT-2026-0228",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000228",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000286",
+    "evidence_reference": "DOC-AUDIT-2026-0229",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000229",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000287",
+    "evidence_reference": "DOC-AUDIT-2026-0230",
+    "verification_date": "2026-03-21",
+    "verification_id": "VERIF-2026-000230",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000288",
+    "evidence_reference": "DOC-AUDIT-2026-0231",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000231",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000289",
+    "evidence_reference": "DOC-AUDIT-2026-0232",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000232",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000291",
+    "evidence_reference": "DOC-AUDIT-2026-0233",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000233",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000292",
+    "evidence_reference": "DOC-AUDIT-2026-0234",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000234",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000293",
+    "evidence_reference": "DOC-AUDIT-2026-0235",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000235",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000294",
+    "evidence_reference": "DOC-AUDIT-2026-0236",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000236",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000296",
+    "evidence_reference": "DOC-AUDIT-2026-0237",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000237",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000297",
+    "evidence_reference": "DOC-AUDIT-2026-0238",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000238",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000298",
+    "evidence_reference": "DOC-AUDIT-2026-0239",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000239",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000299",
+    "evidence_reference": "DOC-AUDIT-2026-0240",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000240",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000301",
+    "evidence_reference": "DOC-AUDIT-2026-0241",
+    "verification_date": "2026-03-23",
+    "verification_id": "VERIF-2026-000241",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000302",
+    "evidence_reference": "DOC-AUDIT-2026-0242",
+    "verification_date": "2026-03-24",
+    "verification_id": "VERIF-2026-000242",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000303",
+    "evidence_reference": "DOC-AUDIT-2026-0243",
+    "verification_date": "2026-03-24",
+    "verification_id": "VERIF-2026-000243",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000304",
+    "evidence_reference": "DOC-AUDIT-2026-0244",
+    "verification_date": "2026-03-24",
+    "verification_id": "VERIF-2026-000244",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000306",
+    "evidence_reference": "DOC-AUDIT-2026-0245",
+    "verification_date": "2026-03-25",
+    "verification_id": "VERIF-2026-000245",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000307",
+    "evidence_reference": "DOC-AUDIT-2026-0246",
+    "verification_date": "2026-03-25",
+    "verification_id": "VERIF-2026-000246",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000308",
+    "evidence_reference": "DOC-AUDIT-2026-0247",
+    "verification_date": "2026-03-25",
+    "verification_id": "VERIF-2026-000247",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000309",
+    "evidence_reference": "DOC-AUDIT-2026-0248",
+    "verification_date": "2026-03-25",
+    "verification_id": "VERIF-2026-000248",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000311",
+    "evidence_reference": "DOC-AUDIT-2026-0249",
+    "verification_date": "2026-03-25",
+    "verification_id": "VERIF-2026-000249",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000312",
+    "evidence_reference": "DOC-AUDIT-2026-0250",
+    "verification_date": "2026-03-26",
+    "verification_id": "VERIF-2026-000250",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000313",
+    "evidence_reference": "DOC-AUDIT-2026-0251",
+    "verification_date": "2026-03-26",
+    "verification_id": "VERIF-2026-000251",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000314",
+    "evidence_reference": "DOC-AUDIT-2026-0252",
+    "verification_date": "2026-03-26",
+    "verification_id": "VERIF-2026-000252",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000316",
+    "evidence_reference": "DOC-AUDIT-2026-0253",
+    "verification_date": "2026-03-27",
+    "verification_id": "VERIF-2026-000253",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000317",
+    "evidence_reference": "DOC-AUDIT-2026-0254",
+    "verification_date": "2026-03-27",
+    "verification_id": "VERIF-2026-000254",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000318",
+    "evidence_reference": "DOC-AUDIT-2026-0255",
+    "verification_date": "2026-03-27",
+    "verification_id": "VERIF-2026-000255",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000319",
+    "evidence_reference": "DOC-AUDIT-2026-0256",
+    "verification_date": "2026-03-27",
+    "verification_id": "VERIF-2026-000256",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000321",
+    "evidence_reference": "DOC-AUDIT-2026-0257",
+    "verification_date": "2026-04-02",
+    "verification_id": "VERIF-2026-000257",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000322",
+    "evidence_reference": "DOC-AUDIT-2026-0258",
+    "verification_date": "2026-04-02",
+    "verification_id": "VERIF-2026-000258",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000323",
+    "evidence_reference": "DOC-AUDIT-2026-0259",
+    "verification_date": "2026-04-02",
+    "verification_id": "VERIF-2026-000259",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000324",
+    "evidence_reference": "DOC-AUDIT-2026-0260",
+    "verification_date": "2026-04-02",
+    "verification_id": "VERIF-2026-000260",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000326",
+    "evidence_reference": "DOC-AUDIT-2026-0261",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000261",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000327",
+    "evidence_reference": "DOC-AUDIT-2026-0262",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000262",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000328",
+    "evidence_reference": "DOC-AUDIT-2026-0263",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000263",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000329",
+    "evidence_reference": "DOC-AUDIT-2026-0264",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000264",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000331",
+    "evidence_reference": "DOC-AUDIT-2026-0265",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000265",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000332",
+    "evidence_reference": "DOC-AUDIT-2026-0266",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000266",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000333",
+    "evidence_reference": "DOC-AUDIT-2026-0267",
+    "verification_date": "2026-04-03",
+    "verification_id": "VERIF-2026-000267",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000334",
+    "evidence_reference": "DOC-AUDIT-2026-0268",
+    "verification_date": "2026-04-04",
+    "verification_id": "VERIF-2026-000268",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000336",
+    "evidence_reference": "DOC-AUDIT-2026-0269",
+    "verification_date": "2026-04-04",
+    "verification_id": "VERIF-2026-000269",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000337",
+    "evidence_reference": "DOC-AUDIT-2026-0270",
+    "verification_date": "2026-04-04",
+    "verification_id": "VERIF-2026-000270",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000338",
+    "evidence_reference": "DOC-AUDIT-2026-0271",
+    "verification_date": "2026-04-04",
+    "verification_id": "VERIF-2026-000271",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000339",
+    "evidence_reference": "DOC-AUDIT-2026-0272",
+    "verification_date": "2026-04-04",
+    "verification_id": "VERIF-2026-000272",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000341",
+    "evidence_reference": "DOC-AUDIT-2026-0273",
+    "verification_date": "2026-04-05",
+    "verification_id": "VERIF-2026-000273",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000342",
+    "evidence_reference": "DOC-AUDIT-2026-0274",
+    "verification_date": "2026-04-05",
+    "verification_id": "VERIF-2026-000274",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000343",
+    "evidence_reference": "DOC-AUDIT-2026-0275",
+    "verification_date": "2026-04-05",
+    "verification_id": "VERIF-2026-000275",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000344",
+    "evidence_reference": "DOC-AUDIT-2026-0276",
+    "verification_date": "2026-04-06",
+    "verification_id": "VERIF-2026-000276",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000346",
+    "evidence_reference": "DOC-AUDIT-2026-0277",
+    "verification_date": "2026-04-06",
+    "verification_id": "VERIF-2026-000277",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000347",
+    "evidence_reference": "DOC-AUDIT-2026-0278",
+    "verification_date": "2026-04-06",
+    "verification_id": "VERIF-2026-000278",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000348",
+    "evidence_reference": "DOC-AUDIT-2026-0279",
+    "verification_date": "2026-04-07",
+    "verification_id": "VERIF-2026-000279",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000349",
+    "evidence_reference": "DOC-AUDIT-2026-0280",
+    "verification_date": "2026-04-07",
+    "verification_id": "VERIF-2026-000280",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000351",
+    "evidence_reference": "DOC-AUDIT-2026-0281",
+    "verification_date": "2026-04-07",
+    "verification_id": "VERIF-2026-000281",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000352",
+    "evidence_reference": "DOC-AUDIT-2026-0282",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000282",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000353",
+    "evidence_reference": "DOC-AUDIT-2026-0283",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000283",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000354",
+    "evidence_reference": "DOC-AUDIT-2026-0284",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000284",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000356",
+    "evidence_reference": "DOC-AUDIT-2026-0285",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000285",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000357",
+    "evidence_reference": "DOC-AUDIT-2026-0286",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000286",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000358",
+    "evidence_reference": "DOC-AUDIT-2026-0287",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000287",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000359",
+    "evidence_reference": "DOC-AUDIT-2026-0288",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000288",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000361",
+    "evidence_reference": "DOC-AUDIT-2026-0289",
+    "verification_date": "2026-04-13",
+    "verification_id": "VERIF-2026-000289",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000362",
+    "evidence_reference": "DOC-AUDIT-2026-0290",
+    "verification_date": "2026-04-14",
+    "verification_id": "VERIF-2026-000290",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000363",
+    "evidence_reference": "DOC-AUDIT-2026-0291",
+    "verification_date": "2026-04-14",
+    "verification_id": "VERIF-2026-000291",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000364",
+    "evidence_reference": "DOC-AUDIT-2026-0292",
+    "verification_date": "2026-04-14",
+    "verification_id": "VERIF-2026-000292",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000366",
+    "evidence_reference": "DOC-AUDIT-2026-0293",
+    "verification_date": "2026-04-14",
+    "verification_id": "VERIF-2026-000293",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000367",
+    "evidence_reference": "DOC-AUDIT-2026-0294",
+    "verification_date": "2026-04-14",
+    "verification_id": "VERIF-2026-000294",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000368",
+    "evidence_reference": "DOC-AUDIT-2026-0295",
+    "verification_date": "2026-04-15",
+    "verification_id": "VERIF-2026-000295",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000369",
+    "evidence_reference": "DOC-AUDIT-2026-0296",
+    "verification_date": "2026-04-15",
+    "verification_id": "VERIF-2026-000296",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000371",
+    "evidence_reference": "DOC-AUDIT-2026-0297",
+    "verification_date": "2026-04-15",
+    "verification_id": "VERIF-2026-000297",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000372",
+    "evidence_reference": "DOC-AUDIT-2026-0298",
+    "verification_date": "2026-04-16",
+    "verification_id": "VERIF-2026-000298",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000373",
+    "evidence_reference": "DOC-AUDIT-2026-0299",
+    "verification_date": "2026-04-16",
+    "verification_id": "VERIF-2026-000299",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000374",
+    "evidence_reference": "DOC-AUDIT-2026-0300",
+    "verification_date": "2026-04-16",
+    "verification_id": "VERIF-2026-000300",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000376",
+    "evidence_reference": "DOC-AUDIT-2026-0301",
+    "verification_date": "2026-04-16",
+    "verification_id": "VERIF-2026-000301",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000377",
+    "evidence_reference": "DOC-AUDIT-2026-0302",
+    "verification_date": "2026-04-16",
+    "verification_id": "VERIF-2026-000302",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000378",
+    "evidence_reference": "DOC-AUDIT-2026-0303",
+    "verification_date": "2026-04-17",
+    "verification_id": "VERIF-2026-000303",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000379",
+    "evidence_reference": "DOC-AUDIT-2026-0304",
+    "verification_date": "2026-04-17",
+    "verification_id": "VERIF-2026-000304",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000381",
+    "evidence_reference": "DOC-AUDIT-2026-0305",
+    "verification_date": "2026-04-17",
+    "verification_id": "VERIF-2026-000305",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000382",
+    "evidence_reference": "DOC-AUDIT-2026-0306",
+    "verification_date": "2026-04-18",
+    "verification_id": "VERIF-2026-000306",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000383",
+    "evidence_reference": "DOC-AUDIT-2026-0307",
+    "verification_date": "2026-04-18",
+    "verification_id": "VERIF-2026-000307",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000384",
+    "evidence_reference": "DOC-AUDIT-2026-0308",
+    "verification_date": "2026-04-19",
+    "verification_id": "VERIF-2026-000308",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000386",
+    "evidence_reference": "DOC-AUDIT-2026-0309",
+    "verification_date": "2026-04-19",
+    "verification_id": "VERIF-2026-000309",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000387",
+    "evidence_reference": "DOC-AUDIT-2026-0310",
+    "verification_date": "2026-04-19",
+    "verification_id": "VERIF-2026-000310",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000388",
+    "evidence_reference": "DOC-AUDIT-2026-0311",
+    "verification_date": "2026-04-19",
+    "verification_id": "VERIF-2026-000311",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000389",
+    "evidence_reference": "DOC-AUDIT-2026-0312",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000312",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000391",
+    "evidence_reference": "DOC-AUDIT-2026-0313",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000313",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000392",
+    "evidence_reference": "DOC-AUDIT-2026-0314",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000314",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000393",
+    "evidence_reference": "DOC-AUDIT-2026-0315",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000315",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000394",
+    "evidence_reference": "DOC-AUDIT-2026-0316",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000316",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000396",
+    "evidence_reference": "DOC-AUDIT-2026-0317",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000317",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000397",
+    "evidence_reference": "DOC-AUDIT-2026-0318",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000318",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000398",
+    "evidence_reference": "DOC-AUDIT-2026-0319",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000319",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000399",
+    "evidence_reference": "DOC-AUDIT-2026-0320",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000320",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000401",
+    "evidence_reference": "DOC-AUDIT-2026-0321",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000321",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000402",
+    "evidence_reference": "DOC-AUDIT-2026-0322",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000322",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000403",
+    "evidence_reference": "DOC-AUDIT-2026-0323",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000323",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000404",
+    "evidence_reference": "DOC-AUDIT-2026-0324",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000324",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000406",
+    "evidence_reference": "DOC-AUDIT-2026-0325",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000325",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000407",
+    "evidence_reference": "DOC-AUDIT-2026-0326",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000326",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000408",
+    "evidence_reference": "DOC-AUDIT-2026-0327",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000327",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000409",
+    "evidence_reference": "DOC-AUDIT-2026-0328",
+    "verification_date": "2026-04-20",
+    "verification_id": "VERIF-2026-000328",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000411",
+    "evidence_reference": "DOC-AUDIT-2026-0329",
+    "verification_date": "2026-04-21",
+    "verification_id": "VERIF-2026-000329",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000412",
+    "evidence_reference": "DOC-AUDIT-2026-0330",
+    "verification_date": "2026-04-21",
+    "verification_id": "VERIF-2026-000330",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000413",
+    "evidence_reference": "DOC-AUDIT-2026-0331",
+    "verification_date": "2026-04-21",
+    "verification_id": "VERIF-2026-000331",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000414",
+    "evidence_reference": "DOC-AUDIT-2026-0332",
+    "verification_date": "2026-04-21",
+    "verification_id": "VERIF-2026-000332",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000416",
+    "evidence_reference": "DOC-AUDIT-2026-0333",
+    "verification_date": "2026-04-23",
+    "verification_id": "VERIF-2026-000333",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000417",
+    "evidence_reference": "DOC-AUDIT-2026-0334",
+    "verification_date": "2026-04-23",
+    "verification_id": "VERIF-2026-000334",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000418",
+    "evidence_reference": "DOC-AUDIT-2026-0335",
+    "verification_date": "2026-04-23",
+    "verification_id": "VERIF-2026-000335",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000419",
+    "evidence_reference": "DOC-AUDIT-2026-0336",
+    "verification_date": "2026-04-23",
+    "verification_id": "VERIF-2026-000336",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000421",
+    "evidence_reference": "DOC-AUDIT-2026-0337",
+    "verification_date": "2026-04-23",
+    "verification_id": "VERIF-2026-000337",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000422",
+    "evidence_reference": "DOC-AUDIT-2026-0338",
+    "verification_date": "2026-04-23",
+    "verification_id": "VERIF-2026-000338",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000423",
+    "evidence_reference": "DOC-AUDIT-2026-0339",
+    "verification_date": "2026-04-24",
+    "verification_id": "VERIF-2026-000339",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000424",
+    "evidence_reference": "DOC-AUDIT-2026-0340",
+    "verification_date": "2026-04-24",
+    "verification_id": "VERIF-2026-000340",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000426",
+    "evidence_reference": "DOC-AUDIT-2026-0341",
+    "verification_date": "2026-04-24",
+    "verification_id": "VERIF-2026-000341",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000427",
+    "evidence_reference": "DOC-AUDIT-2026-0342",
+    "verification_date": "2026-04-24",
+    "verification_id": "VERIF-2026-000342",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000428",
+    "evidence_reference": "DOC-AUDIT-2026-0343",
+    "verification_date": "2026-04-24",
+    "verification_id": "VERIF-2026-000343",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000429",
+    "evidence_reference": "DOC-AUDIT-2026-0344",
+    "verification_date": "2026-04-24",
+    "verification_id": "VERIF-2026-000344",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000431",
+    "evidence_reference": "DOC-AUDIT-2026-0345",
+    "verification_date": "2026-04-25",
+    "verification_id": "VERIF-2026-000345",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000432",
+    "evidence_reference": "DOC-AUDIT-2026-0346",
+    "verification_date": "2026-04-25",
+    "verification_id": "VERIF-2026-000346",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000433",
+    "evidence_reference": "DOC-AUDIT-2026-0347",
+    "verification_date": "2026-04-25",
+    "verification_id": "VERIF-2026-000347",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000434",
+    "evidence_reference": "DOC-AUDIT-2026-0348",
+    "verification_date": "2026-04-25",
+    "verification_id": "VERIF-2026-000348",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000436",
+    "evidence_reference": "DOC-AUDIT-2026-0349",
+    "verification_date": "2026-04-26",
+    "verification_id": "VERIF-2026-000349",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000437",
+    "evidence_reference": "DOC-AUDIT-2026-0350",
+    "verification_date": "2026-04-26",
+    "verification_id": "VERIF-2026-000350",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000438",
+    "evidence_reference": "DOC-AUDIT-2026-0351",
+    "verification_date": "2026-04-26",
+    "verification_id": "VERIF-2026-000351",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000439",
+    "evidence_reference": "DOC-AUDIT-2026-0352",
+    "verification_date": "2026-04-26",
+    "verification_id": "VERIF-2026-000352",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000441",
+    "evidence_reference": "DOC-AUDIT-2026-0353",
+    "verification_date": "2026-04-27",
+    "verification_id": "VERIF-2026-000353",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000442",
+    "evidence_reference": "DOC-AUDIT-2026-0354",
+    "verification_date": "2026-04-27",
+    "verification_id": "VERIF-2026-000354",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000443",
+    "evidence_reference": "DOC-AUDIT-2026-0355",
+    "verification_date": "2026-04-27",
+    "verification_id": "VERIF-2026-000355",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000444",
+    "evidence_reference": "DOC-AUDIT-2026-0356",
+    "verification_date": "2026-04-27",
+    "verification_id": "VERIF-2026-000356",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000446",
+    "evidence_reference": "DOC-AUDIT-2026-0357",
+    "verification_date": "2026-04-28",
+    "verification_id": "VERIF-2026-000357",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000447",
+    "evidence_reference": "DOC-AUDIT-2026-0358",
+    "verification_date": "2026-04-28",
+    "verification_id": "VERIF-2026-000358",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000448",
+    "evidence_reference": "DOC-AUDIT-2026-0359",
+    "verification_date": "2026-05-04",
+    "verification_id": "VERIF-2026-000359",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000449",
+    "evidence_reference": "DOC-AUDIT-2026-0360",
+    "verification_date": "2026-05-04",
+    "verification_id": "VERIF-2026-000360",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000451",
+    "evidence_reference": "DOC-AUDIT-2026-0361",
+    "verification_date": "2026-05-04",
+    "verification_id": "VERIF-2026-000361",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000452",
+    "evidence_reference": "DOC-AUDIT-2026-0362",
+    "verification_date": "2026-05-04",
+    "verification_id": "VERIF-2026-000362",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000453",
+    "evidence_reference": "DOC-AUDIT-2026-0363",
+    "verification_date": "2026-05-04",
+    "verification_id": "VERIF-2026-000363",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000454",
+    "evidence_reference": "DOC-AUDIT-2026-0364",
+    "verification_date": "2026-05-04",
+    "verification_id": "VERIF-2026-000364",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000456",
+    "evidence_reference": "DOC-AUDIT-2026-0365",
+    "verification_date": "2026-05-05",
+    "verification_id": "VERIF-2026-000365",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000457",
+    "evidence_reference": "DOC-AUDIT-2026-0366",
+    "verification_date": "2026-05-05",
+    "verification_id": "VERIF-2026-000366",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000458",
+    "evidence_reference": "DOC-AUDIT-2026-0367",
+    "verification_date": "2026-05-05",
+    "verification_id": "VERIF-2026-000367",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000459",
+    "evidence_reference": "DOC-AUDIT-2026-0368",
+    "verification_date": "2026-05-05",
+    "verification_id": "VERIF-2026-000368",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000461",
+    "evidence_reference": "DOC-AUDIT-2026-0369",
+    "verification_date": "2026-05-05",
+    "verification_id": "VERIF-2026-000369",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000462",
+    "evidence_reference": "DOC-AUDIT-2026-0370",
+    "verification_date": "2026-05-05",
+    "verification_id": "VERIF-2026-000370",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000463",
+    "evidence_reference": "DOC-AUDIT-2026-0371",
+    "verification_date": "2026-05-06",
+    "verification_id": "VERIF-2026-000371",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000464",
+    "evidence_reference": "DOC-AUDIT-2026-0372",
+    "verification_date": "2026-05-06",
+    "verification_id": "VERIF-2026-000372",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000466",
+    "evidence_reference": "DOC-AUDIT-2026-0373",
+    "verification_date": "2026-05-06",
+    "verification_id": "VERIF-2026-000373",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000467",
+    "evidence_reference": "DOC-AUDIT-2026-0374",
+    "verification_date": "2026-05-06",
+    "verification_id": "VERIF-2026-000374",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000468",
+    "evidence_reference": "DOC-AUDIT-2026-0375",
+    "verification_date": "2026-05-06",
+    "verification_id": "VERIF-2026-000375",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000469",
+    "evidence_reference": "DOC-AUDIT-2026-0376",
+    "verification_date": "2026-05-07",
+    "verification_id": "VERIF-2026-000376",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000471",
+    "evidence_reference": "DOC-AUDIT-2026-0377",
+    "verification_date": "2026-05-07",
+    "verification_id": "VERIF-2026-000377",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000472",
+    "evidence_reference": "DOC-AUDIT-2026-0378",
+    "verification_date": "2026-05-07",
+    "verification_id": "VERIF-2026-000378",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000473",
+    "evidence_reference": "DOC-AUDIT-2026-0379",
+    "verification_date": "2026-05-08",
+    "verification_id": "VERIF-2026-000379",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000474",
+    "evidence_reference": "DOC-AUDIT-2026-0380",
+    "verification_date": "2026-05-08",
+    "verification_id": "VERIF-2026-000380",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000476",
+    "evidence_reference": "DOC-AUDIT-2026-0381",
+    "verification_date": "2026-05-08",
+    "verification_id": "VERIF-2026-000381",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000477",
+    "evidence_reference": "DOC-AUDIT-2026-0382",
+    "verification_date": "2026-05-09",
+    "verification_id": "VERIF-2026-000382",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000478",
+    "evidence_reference": "DOC-AUDIT-2026-0383",
+    "verification_date": "2026-05-09",
+    "verification_id": "VERIF-2026-000383",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000479",
+    "evidence_reference": "DOC-AUDIT-2026-0384",
+    "verification_date": "2026-05-09",
+    "verification_id": "VERIF-2026-000384",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000481",
+    "evidence_reference": "DOC-AUDIT-2026-0385",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000385",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000482",
+    "evidence_reference": "DOC-AUDIT-2026-0386",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000386",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000483",
+    "evidence_reference": "DOC-AUDIT-2026-0387",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000387",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000484",
+    "evidence_reference": "DOC-AUDIT-2026-0388",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000388",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000486",
+    "evidence_reference": "DOC-AUDIT-2026-0389",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000389",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000487",
+    "evidence_reference": "DOC-AUDIT-2026-0390",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000390",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000488",
+    "evidence_reference": "DOC-AUDIT-2026-0391",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000391",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000489",
+    "evidence_reference": "DOC-AUDIT-2026-0392",
+    "verification_date": "2026-05-15",
+    "verification_id": "VERIF-2026-000392",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000491",
+    "evidence_reference": "DOC-AUDIT-2026-0393",
+    "verification_date": "2026-05-16",
+    "verification_id": "VERIF-2026-000393",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000492",
+    "evidence_reference": "DOC-AUDIT-2026-0394",
+    "verification_date": "2026-05-16",
+    "verification_id": "VERIF-2026-000394",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000493",
+    "evidence_reference": "DOC-AUDIT-2026-0395",
+    "verification_date": "2026-05-16",
+    "verification_id": "VERIF-2026-000395",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000494",
+    "evidence_reference": "DOC-AUDIT-2026-0396",
+    "verification_date": "2026-05-16",
+    "verification_id": "VERIF-2026-000396",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000496",
+    "evidence_reference": "DOC-AUDIT-2026-0397",
+    "verification_date": "2026-05-16",
+    "verification_id": "VERIF-2026-000397",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000497",
+    "evidence_reference": "DOC-AUDIT-2026-0398",
+    "verification_date": "2026-05-17",
+    "verification_id": "VERIF-2026-000398",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000498",
+    "evidence_reference": "DOC-AUDIT-2026-0399",
+    "verification_date": "2026-05-17",
+    "verification_id": "VERIF-2026-000399",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000499",
+    "evidence_reference": "DOC-AUDIT-2026-0400",
+    "verification_date": "2026-05-17",
+    "verification_id": "VERIF-2026-000400",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000501",
+    "evidence_reference": "DOC-AUDIT-2026-0401",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000401",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000502",
+    "evidence_reference": "DOC-AUDIT-2026-0402",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000402",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000503",
+    "evidence_reference": "DOC-AUDIT-2026-0403",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000403",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000504",
+    "evidence_reference": "DOC-AUDIT-2026-0404",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000404",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000506",
+    "evidence_reference": "DOC-AUDIT-2026-0405",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000405",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000507",
+    "evidence_reference": "DOC-AUDIT-2026-0406",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000406",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000508",
+    "evidence_reference": "DOC-AUDIT-2026-0407",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000407",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000509",
+    "evidence_reference": "DOC-AUDIT-2026-0408",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000408",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000511",
+    "evidence_reference": "DOC-AUDIT-2026-0409",
+    "verification_date": "2026-05-18",
+    "verification_id": "VERIF-2026-000409",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000512",
+    "evidence_reference": "DOC-AUDIT-2026-0410",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000410",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000513",
+    "evidence_reference": "DOC-AUDIT-2026-0411",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000411",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000514",
+    "evidence_reference": "DOC-AUDIT-2026-0412",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000412",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000516",
+    "evidence_reference": "DOC-AUDIT-2026-0413",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000413",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000517",
+    "evidence_reference": "DOC-AUDIT-2026-0414",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000414",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000518",
+    "evidence_reference": "DOC-AUDIT-2026-0415",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000415",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000519",
+    "evidence_reference": "DOC-AUDIT-2026-0416",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000416",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000521",
+    "evidence_reference": "DOC-AUDIT-2026-0417",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000417",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000522",
+    "evidence_reference": "DOC-AUDIT-2026-0418",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000418",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000523",
+    "evidence_reference": "DOC-AUDIT-2026-0419",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000419",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000524",
+    "evidence_reference": "DOC-AUDIT-2026-0420",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000420",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000526",
+    "evidence_reference": "DOC-AUDIT-2026-0421",
+    "verification_date": "2026-05-20",
+    "verification_id": "VERIF-2026-000421",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000527",
+    "evidence_reference": "DOC-AUDIT-2026-0422",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000422",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000528",
+    "evidence_reference": "DOC-AUDIT-2026-0423",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000423",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000529",
+    "evidence_reference": "DOC-AUDIT-2026-0424",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000424",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000531",
+    "evidence_reference": "DOC-AUDIT-2026-0425",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000425",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000532",
+    "evidence_reference": "DOC-AUDIT-2026-0426",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000426",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000533",
+    "evidence_reference": "DOC-AUDIT-2026-0427",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000427",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000534",
+    "evidence_reference": "DOC-AUDIT-2026-0428",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000428",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000536",
+    "evidence_reference": "DOC-AUDIT-2026-0429",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000429",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000537",
+    "evidence_reference": "DOC-AUDIT-2026-0430",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000430",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000538",
+    "evidence_reference": "DOC-AUDIT-2026-0431",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000431",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000539",
+    "evidence_reference": "DOC-AUDIT-2026-0432",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000432",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000541",
+    "evidence_reference": "DOC-AUDIT-2026-0433",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000433",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000542",
+    "evidence_reference": "DOC-AUDIT-2026-0434",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000434",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000543",
+    "evidence_reference": "DOC-AUDIT-2026-0435",
+    "verification_date": "2026-05-21",
+    "verification_id": "VERIF-2026-000435",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000544",
+    "evidence_reference": "DOC-AUDIT-2026-0436",
+    "verification_date": "2026-05-25",
+    "verification_id": "VERIF-2026-000436",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000546",
+    "evidence_reference": "DOC-AUDIT-2026-0437",
+    "verification_date": "2026-05-25",
+    "verification_id": "VERIF-2026-000437",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000547",
+    "evidence_reference": "DOC-AUDIT-2026-0438",
+    "verification_date": "2026-05-25",
+    "verification_id": "VERIF-2026-000438",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000548",
+    "evidence_reference": "DOC-AUDIT-2026-0439",
+    "verification_date": "2026-05-25",
+    "verification_id": "VERIF-2026-000439",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000549",
+    "evidence_reference": "DOC-AUDIT-2026-0440",
+    "verification_date": "2026-05-26",
+    "verification_id": "VERIF-2026-000440",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000551",
+    "evidence_reference": "DOC-AUDIT-2026-0441",
+    "verification_date": "2026-05-26",
+    "verification_id": "VERIF-2026-000441",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000552",
+    "evidence_reference": "DOC-AUDIT-2026-0442",
+    "verification_date": "2026-05-26",
+    "verification_id": "VERIF-2026-000442",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000553",
+    "evidence_reference": "DOC-AUDIT-2026-0443",
+    "verification_date": "2026-05-26",
+    "verification_id": "VERIF-2026-000443",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000554",
+    "evidence_reference": "DOC-AUDIT-2026-0444",
+    "verification_date": "2026-05-26",
+    "verification_id": "VERIF-2026-000444",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000556",
+    "evidence_reference": "DOC-AUDIT-2026-0445",
+    "verification_date": "2026-05-26",
+    "verification_id": "VERIF-2026-000445",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000557",
+    "evidence_reference": "DOC-AUDIT-2026-0446",
+    "verification_date": "2026-05-27",
+    "verification_id": "VERIF-2026-000446",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000558",
+    "evidence_reference": "DOC-AUDIT-2026-0447",
+    "verification_date": "2026-05-27",
+    "verification_id": "VERIF-2026-000447",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000559",
+    "evidence_reference": "DOC-AUDIT-2026-0448",
+    "verification_date": "2026-05-27",
+    "verification_id": "VERIF-2026-000448",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000561",
+    "evidence_reference": "DOC-AUDIT-2026-0449",
+    "verification_date": "2026-05-27",
+    "verification_id": "VERIF-2026-000449",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000562",
+    "evidence_reference": "DOC-AUDIT-2026-0450",
+    "verification_date": "2026-05-28",
+    "verification_id": "VERIF-2026-000450",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000563",
+    "evidence_reference": "DOC-AUDIT-2026-0451",
+    "verification_date": "2026-05-28",
+    "verification_id": "VERIF-2026-000451",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000564",
+    "evidence_reference": "DOC-AUDIT-2026-0452",
+    "verification_date": "2026-05-28",
+    "verification_id": "VERIF-2026-000452",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000566",
+    "evidence_reference": "DOC-AUDIT-2026-0453",
+    "verification_date": "2026-05-28",
+    "verification_id": "VERIF-2026-000453",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000567",
+    "evidence_reference": "DOC-AUDIT-2026-0454",
+    "verification_date": "2026-05-28",
+    "verification_id": "VERIF-2026-000454",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000568",
+    "evidence_reference": "DOC-AUDIT-2026-0455",
+    "verification_date": "2026-05-29",
+    "verification_id": "VERIF-2026-000455",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000569",
+    "evidence_reference": "DOC-AUDIT-2026-0456",
+    "verification_date": "2026-05-29",
+    "verification_id": "VERIF-2026-000456",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000571",
+    "evidence_reference": "DOC-AUDIT-2026-0457",
+    "verification_date": "2026-05-29",
+    "verification_id": "VERIF-2026-000457",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000572",
+    "evidence_reference": "DOC-AUDIT-2026-0458",
+    "verification_date": "2026-05-30",
+    "verification_id": "VERIF-2026-000458",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000573",
+    "evidence_reference": "DOC-AUDIT-2026-0459",
+    "verification_date": "2026-05-30",
+    "verification_id": "VERIF-2026-000459",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000574",
+    "evidence_reference": "DOC-AUDIT-2026-0460",
+    "verification_date": "2026-05-30",
+    "verification_id": "VERIF-2026-000460",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000576",
+    "evidence_reference": "DOC-AUDIT-2026-0461",
+    "verification_date": "2026-06-05",
+    "verification_id": "VERIF-2026-000461",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000577",
+    "evidence_reference": "DOC-AUDIT-2026-0462",
+    "verification_date": "2026-06-05",
+    "verification_id": "VERIF-2026-000462",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000578",
+    "evidence_reference": "DOC-AUDIT-2026-0463",
+    "verification_date": "2026-06-05",
+    "verification_id": "VERIF-2026-000463",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000579",
+    "evidence_reference": "DOC-AUDIT-2026-0464",
+    "verification_date": "2026-06-05",
+    "verification_id": "VERIF-2026-000464",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000581",
+    "evidence_reference": "DOC-AUDIT-2026-0465",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000465",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000582",
+    "evidence_reference": "DOC-AUDIT-2026-0466",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000466",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000583",
+    "evidence_reference": "DOC-AUDIT-2026-0467",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000467",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000584",
+    "evidence_reference": "DOC-AUDIT-2026-0468",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000468",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000586",
+    "evidence_reference": "DOC-AUDIT-2026-0469",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000469",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000587",
+    "evidence_reference": "DOC-AUDIT-2026-0470",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000470",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000588",
+    "evidence_reference": "DOC-AUDIT-2026-0471",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000471",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000589",
+    "evidence_reference": "DOC-AUDIT-2026-0472",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000472",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000591",
+    "evidence_reference": "DOC-AUDIT-2026-0473",
+    "verification_date": "2026-06-06",
+    "verification_id": "VERIF-2026-000473",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000592",
+    "evidence_reference": "DOC-AUDIT-2026-0474",
+    "verification_date": "2026-06-07",
+    "verification_id": "VERIF-2026-000474",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000593",
+    "evidence_reference": "DOC-AUDIT-2026-0475",
+    "verification_date": "2026-06-07",
+    "verification_id": "VERIF-2026-000475",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000594",
+    "evidence_reference": "DOC-AUDIT-2026-0476",
+    "verification_date": "2026-06-07",
+    "verification_id": "VERIF-2026-000476",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000596",
+    "evidence_reference": "DOC-AUDIT-2026-0477",
+    "verification_date": "2026-06-08",
+    "verification_id": "VERIF-2026-000477",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000597",
+    "evidence_reference": "DOC-AUDIT-2026-0478",
+    "verification_date": "2026-06-08",
+    "verification_id": "VERIF-2026-000478",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000598",
+    "evidence_reference": "DOC-AUDIT-2026-0479",
+    "verification_date": "2026-06-08",
+    "verification_id": "VERIF-2026-000479",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000599",
+    "evidence_reference": "DOC-AUDIT-2026-0480",
+    "verification_date": "2026-06-08",
+    "verification_id": "VERIF-2026-000480",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000601",
+    "evidence_reference": "DOC-AUDIT-2026-0481",
+    "verification_date": "2026-06-09",
+    "verification_id": "VERIF-2026-000481",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000602",
+    "evidence_reference": "DOC-AUDIT-2026-0482",
+    "verification_date": "2026-06-09",
+    "verification_id": "VERIF-2026-000482",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000603",
+    "evidence_reference": "DOC-AUDIT-2026-0483",
+    "verification_date": "2026-06-09",
+    "verification_id": "VERIF-2026-000483",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000604",
+    "evidence_reference": "DOC-AUDIT-2026-0484",
+    "verification_date": "2026-06-09",
+    "verification_id": "VERIF-2026-000484",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000606",
+    "evidence_reference": "DOC-AUDIT-2026-0485",
+    "verification_date": "2026-06-10",
+    "verification_id": "VERIF-2026-000485",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000607",
+    "evidence_reference": "DOC-AUDIT-2026-0486",
+    "verification_date": "2026-06-10",
+    "verification_id": "VERIF-2026-000486",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000608",
+    "evidence_reference": "DOC-AUDIT-2026-0487",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000487",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000609",
+    "evidence_reference": "DOC-AUDIT-2026-0488",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000488",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000611",
+    "evidence_reference": "DOC-AUDIT-2026-0489",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000489",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000612",
+    "evidence_reference": "DOC-AUDIT-2026-0490",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000490",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000613",
+    "evidence_reference": "DOC-AUDIT-2026-0491",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000491",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000614",
+    "evidence_reference": "DOC-AUDIT-2026-0492",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000492",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000616",
+    "evidence_reference": "DOC-AUDIT-2026-0493",
+    "verification_date": "2026-06-16",
+    "verification_id": "VERIF-2026-000493",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000617",
+    "evidence_reference": "DOC-AUDIT-2026-0494",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000494",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000618",
+    "evidence_reference": "DOC-AUDIT-2026-0495",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000495",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000619",
+    "evidence_reference": "DOC-AUDIT-2026-0496",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000496",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000621",
+    "evidence_reference": "DOC-AUDIT-2026-0497",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000497",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000622",
+    "evidence_reference": "DOC-AUDIT-2026-0498",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000498",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000623",
+    "evidence_reference": "DOC-AUDIT-2026-0499",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000499",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000624",
+    "evidence_reference": "DOC-AUDIT-2026-0500",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000500",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000626",
+    "evidence_reference": "DOC-AUDIT-2026-0501",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000501",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000627",
+    "evidence_reference": "DOC-AUDIT-2026-0502",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000502",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000628",
+    "evidence_reference": "DOC-AUDIT-2026-0503",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000503",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000629",
+    "evidence_reference": "DOC-AUDIT-2026-0504",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000504",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000631",
+    "evidence_reference": "DOC-AUDIT-2026-0505",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000505",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000632",
+    "evidence_reference": "DOC-AUDIT-2026-0506",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000506",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000633",
+    "evidence_reference": "DOC-AUDIT-2026-0507",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000507",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000634",
+    "evidence_reference": "DOC-AUDIT-2026-0508",
+    "verification_date": "2026-06-17",
+    "verification_id": "VERIF-2026-000508",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000636",
+    "evidence_reference": "DOC-AUDIT-2026-0509",
+    "verification_date": "2026-06-18",
+    "verification_id": "VERIF-2026-000509",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000637",
+    "evidence_reference": "DOC-AUDIT-2026-0510",
+    "verification_date": "2026-06-18",
+    "verification_id": "VERIF-2026-000510",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000638",
+    "evidence_reference": "DOC-AUDIT-2026-0511",
+    "verification_date": "2026-06-18",
+    "verification_id": "VERIF-2026-000511",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000639",
+    "evidence_reference": "DOC-AUDIT-2026-0512",
+    "verification_date": "2026-06-18",
+    "verification_id": "VERIF-2026-000512",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000641",
+    "evidence_reference": "DOC-AUDIT-2026-0513",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000513",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000642",
+    "evidence_reference": "DOC-AUDIT-2026-0514",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000514",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000643",
+    "evidence_reference": "DOC-AUDIT-2026-0515",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000515",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000644",
+    "evidence_reference": "DOC-AUDIT-2026-0516",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000516",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000646",
+    "evidence_reference": "DOC-AUDIT-2026-0517",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000517",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000647",
+    "evidence_reference": "DOC-AUDIT-2026-0518",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000518",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000648",
+    "evidence_reference": "DOC-AUDIT-2026-0519",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000519",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000649",
+    "evidence_reference": "DOC-AUDIT-2026-0520",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000520",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000651",
+    "evidence_reference": "DOC-AUDIT-2026-0521",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000521",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000652",
+    "evidence_reference": "DOC-AUDIT-2026-0522",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000522",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000653",
+    "evidence_reference": "DOC-AUDIT-2026-0523",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000523",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000654",
+    "evidence_reference": "DOC-AUDIT-2026-0524",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000524",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000656",
+    "evidence_reference": "DOC-AUDIT-2026-0525",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000525",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000657",
+    "evidence_reference": "DOC-AUDIT-2026-0526",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000526",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000658",
+    "evidence_reference": "DOC-AUDIT-2026-0527",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000527",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000659",
+    "evidence_reference": "DOC-AUDIT-2026-0528",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000528",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000661",
+    "evidence_reference": "DOC-AUDIT-2026-0529",
+    "verification_date": "2026-06-20",
+    "verification_id": "VERIF-2026-000529",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000662",
+    "evidence_reference": "DOC-AUDIT-2026-0530",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000530",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000663",
+    "evidence_reference": "DOC-AUDIT-2026-0531",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000531",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000664",
+    "evidence_reference": "DOC-AUDIT-2026-0532",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000532",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000666",
+    "evidence_reference": "DOC-AUDIT-2026-0533",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000533",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000667",
+    "evidence_reference": "DOC-AUDIT-2026-0534",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000534",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000668",
+    "evidence_reference": "DOC-AUDIT-2026-0535",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000535",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000669",
+    "evidence_reference": "DOC-AUDIT-2026-0536",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000536",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000671",
+    "evidence_reference": "DOC-AUDIT-2026-0537",
+    "verification_date": "2026-06-21",
+    "verification_id": "VERIF-2026-000537",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000672",
+    "evidence_reference": "DOC-AUDIT-2026-0538",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000538",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000673",
+    "evidence_reference": "DOC-AUDIT-2026-0539",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000539",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000674",
+    "evidence_reference": "DOC-AUDIT-2026-0540",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000540",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000676",
+    "evidence_reference": "DOC-AUDIT-2026-0541",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000541",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000677",
+    "evidence_reference": "DOC-AUDIT-2026-0542",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000542",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000678",
+    "evidence_reference": "DOC-AUDIT-2026-0543",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000543",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000679",
+    "evidence_reference": "DOC-AUDIT-2026-0544",
+    "verification_date": "2026-06-26",
+    "verification_id": "VERIF-2026-000544",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000681",
+    "evidence_reference": "DOC-AUDIT-2026-0545",
+    "verification_date": "2026-06-27",
+    "verification_id": "VERIF-2026-000545",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000682",
+    "evidence_reference": "DOC-AUDIT-2026-0546",
+    "verification_date": "2026-06-27",
+    "verification_id": "VERIF-2026-000546",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000683",
+    "evidence_reference": "DOC-AUDIT-2026-0547",
+    "verification_date": "2026-06-27",
+    "verification_id": "VERIF-2026-000547",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000684",
+    "evidence_reference": "DOC-AUDIT-2026-0548",
+    "verification_date": "2026-06-27",
+    "verification_id": "VERIF-2026-000548",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000686",
+    "evidence_reference": "DOC-AUDIT-2026-0549",
+    "verification_date": "2026-06-27",
+    "verification_id": "VERIF-2026-000549",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000687",
+    "evidence_reference": "DOC-AUDIT-2026-0550",
+    "verification_date": "2026-06-28",
+    "verification_id": "VERIF-2026-000550",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000688",
+    "evidence_reference": "DOC-AUDIT-2026-0551",
+    "verification_date": "2026-06-28",
+    "verification_id": "VERIF-2026-000551",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000689",
+    "evidence_reference": "DOC-AUDIT-2026-0552",
+    "verification_date": "2026-06-28",
+    "verification_id": "VERIF-2026-000552",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000691",
+    "evidence_reference": "DOC-AUDIT-2026-0553",
+    "verification_date": "2026-06-29",
+    "verification_id": "VERIF-2026-000553",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000692",
+    "evidence_reference": "DOC-AUDIT-2026-0554",
+    "verification_date": "2026-06-29",
+    "verification_id": "VERIF-2026-000554",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000693",
+    "evidence_reference": "DOC-AUDIT-2026-0555",
+    "verification_date": "2026-06-29",
+    "verification_id": "VERIF-2026-000555",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000694",
+    "evidence_reference": "DOC-AUDIT-2026-0556",
+    "verification_date": "2026-06-29",
+    "verification_id": "VERIF-2026-000556",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000696",
+    "evidence_reference": "DOC-AUDIT-2026-0557",
+    "verification_date": "2026-06-29",
+    "verification_id": "VERIF-2026-000557",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000697",
+    "evidence_reference": "DOC-AUDIT-2026-0558",
+    "verification_date": "2026-06-30",
+    "verification_id": "VERIF-2026-000558",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000698",
+    "evidence_reference": "DOC-AUDIT-2026-0559",
+    "verification_date": "2026-06-30",
+    "verification_id": "VERIF-2026-000559",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000699",
+    "evidence_reference": "DOC-AUDIT-2026-0560",
+    "verification_date": "2026-06-30",
+    "verification_id": "VERIF-2026-000560",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000701",
+    "evidence_reference": "DOC-AUDIT-2026-0561",
+    "verification_date": "2026-07-01",
+    "verification_id": "VERIF-2026-000561",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000702",
+    "evidence_reference": "DOC-AUDIT-2026-0562",
+    "verification_date": "2026-07-01",
+    "verification_id": "VERIF-2026-000562",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000703",
+    "evidence_reference": "DOC-AUDIT-2026-0563",
+    "verification_date": "2026-07-01",
+    "verification_id": "VERIF-2026-000563",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000704",
+    "evidence_reference": "DOC-AUDIT-2026-0564",
+    "verification_date": "2026-07-07",
+    "verification_id": "VERIF-2026-000564",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000706",
+    "evidence_reference": "DOC-AUDIT-2026-0565",
+    "verification_date": "2026-07-07",
+    "verification_id": "VERIF-2026-000565",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000707",
+    "evidence_reference": "DOC-AUDIT-2026-0566",
+    "verification_date": "2026-07-07",
+    "verification_id": "VERIF-2026-000566",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000708",
+    "evidence_reference": "DOC-AUDIT-2026-0567",
+    "verification_date": "2026-07-07",
+    "verification_id": "VERIF-2026-000567",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000709",
+    "evidence_reference": "DOC-AUDIT-2026-0568",
+    "verification_date": "2026-07-07",
+    "verification_id": "VERIF-2026-000568",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000711",
+    "evidence_reference": "DOC-AUDIT-2026-0569",
+    "verification_date": "2026-07-07",
+    "verification_id": "VERIF-2026-000569",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000712",
+    "evidence_reference": "DOC-AUDIT-2026-0570",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000570",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000713",
+    "evidence_reference": "DOC-AUDIT-2026-0571",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000571",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000714",
+    "evidence_reference": "DOC-AUDIT-2026-0572",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000572",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000716",
+    "evidence_reference": "DOC-AUDIT-2026-0573",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000573",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000717",
+    "evidence_reference": "DOC-AUDIT-2026-0574",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000574",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000718",
+    "evidence_reference": "DOC-AUDIT-2026-0575",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000575",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000719",
+    "evidence_reference": "DOC-AUDIT-2026-0576",
+    "verification_date": "2026-07-08",
+    "verification_id": "VERIF-2026-000576",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000721",
+    "evidence_reference": "DOC-AUDIT-2026-0577",
+    "verification_date": "2026-07-09",
+    "verification_id": "VERIF-2026-000577",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000722",
+    "evidence_reference": "DOC-AUDIT-2026-0578",
+    "verification_date": "2026-07-09",
+    "verification_id": "VERIF-2026-000578",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000723",
+    "evidence_reference": "DOC-AUDIT-2026-0579",
+    "verification_date": "2026-07-09",
+    "verification_id": "VERIF-2026-000579",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000724",
+    "evidence_reference": "DOC-AUDIT-2026-0580",
+    "verification_date": "2026-07-09",
+    "verification_id": "VERIF-2026-000580",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000726",
+    "evidence_reference": "DOC-AUDIT-2026-0581",
+    "verification_date": "2026-07-10",
+    "verification_id": "VERIF-2026-000581",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000727",
+    "evidence_reference": "DOC-AUDIT-2026-0582",
+    "verification_date": "2026-07-10",
+    "verification_id": "VERIF-2026-000582",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000728",
+    "evidence_reference": "DOC-AUDIT-2026-0583",
+    "verification_date": "2026-07-10",
+    "verification_id": "VERIF-2026-000583",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000729",
+    "evidence_reference": "DOC-AUDIT-2026-0584",
+    "verification_date": "2026-07-11",
+    "verification_id": "VERIF-2026-000584",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000731",
+    "evidence_reference": "DOC-AUDIT-2026-0585",
+    "verification_date": "2026-07-11",
+    "verification_id": "VERIF-2026-000585",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000732",
+    "evidence_reference": "DOC-AUDIT-2026-0586",
+    "verification_date": "2026-07-11",
+    "verification_id": "VERIF-2026-000586",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000733",
+    "evidence_reference": "DOC-AUDIT-2026-0587",
+    "verification_date": "2026-07-11",
+    "verification_id": "VERIF-2026-000587",
+    "verification_method": "SPC_MONITORING",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  },
+  {
+    "corrective_action_id": "CAPA-2026-000734",
+    "evidence_reference": "DOC-AUDIT-2026-0588",
+    "verification_date": "2026-07-11",
+    "verification_id": "VERIF-2026-000588",
+    "verification_method": "AUDIT_CHECK",
+    "verification_result": "PASSED",
+    "verified_by_role": "QUALITY_ENGINEER"
+  }
+]

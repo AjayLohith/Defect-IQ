@@ -33,10 +33,18 @@ def test_manifest_structure_and_row_counts():
         assert file_meta["row_count"] >= 0
         assert file_meta["line_count"] >= 0
 
-    # Verify table row counts consistency
+    # Verify table row counts consistency based on active profile
     table_counts = manifest["table_row_counts"]
-    assert table_counts.get("products") == 20
-    assert table_counts.get("suppliers") == 10
-    assert table_counts.get("material_lots") == 100
-    assert table_counts.get("production_orders") == 200
+    profile_name = manifest.get("dataset_profile", "starter")
+    if profile_name == "full":
+        assert table_counts.get("products") == 200
+        assert table_counts.get("suppliers") == 50
+        assert table_counts.get("material_lots") == 2000
+        assert table_counts.get("production_orders") == 5000
+        assert table_counts.get("inspection_results") == 20000
+    else:
+        assert table_counts.get("products") == 20
+        assert table_counts.get("suppliers") == 10
+        assert table_counts.get("material_lots") == 100
+        assert table_counts.get("production_orders") == 200
 

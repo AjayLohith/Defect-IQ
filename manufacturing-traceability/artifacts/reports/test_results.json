@@ -1,0 +1,67 @@
+{
+  "test_execution_timestamp": "2026-11-13T11:27:00Z",
+  "environment": "docker-compose",
+  "dataset_profile": "full",
+  "master_seed": 20261022,
+  "summary": {
+    "total_tests": 47,
+    "passed": 47,
+    "failed": 0,
+    "skipped": 0,
+    "pass_rate": 1.0
+  },
+  "suites": {
+    "pytest_suite": {
+      "total": 36,
+      "passed": 36,
+      "failed": 0,
+      "duration_seconds": 160.91,
+      "breakdown": {
+        "tests/api/test_api_endpoints.py": { "passed": 9, "failed": 0 },
+        "tests/contract/test_contracts.py": { "passed": 2, "failed": 0 },
+        "tests/integration/test_generator.py": { "passed": 1, "failed": 0 },
+        "tests/reproducibility/test_seed_reproducibility.py": { "passed": 2, "failed": 0 },
+        "tests/unit/test_anomalies.py": { "passed": 2, "failed": 0 },
+        "tests/unit/test_calculations.py": { "passed": 4, "failed": 0 },
+        "tests/unit/test_ids.py": { "passed": 8, "failed": 0 },
+        "tests/unit/test_lifecycle.py": { "passed": 3, "failed": 0 },
+        "tests/unit/test_manifest.py": { "passed": 1, "failed": 0 },
+        "tests/unit/test_state_event.py": { "passed": 4, "failed": 0 }
+      }
+    },
+    "validation_engine_suite": {
+      "total_rules": 11,
+      "passed_rules": 11,
+      "failed_baseline_rules": 0,
+      "anomalies_detected": 5,
+      "total_anomalies_expected": 5,
+      "status": "PASSED"
+    },
+    "sql_traceability_queries": {
+      "queries_executed": 5,
+      "status": "PASSED",
+      "queries": [
+        "1. Upstream Defect Trace",
+        "2. Downstream Material-Lot Blast-Radius Impact Analysis",
+        "3. Production Order BOM-Consumption Reconciliation",
+        "4. Machine Defect Rate and Maintenance Risk Ranking",
+        "5. Immutable CAPA Lifecycle Audit Trail and Verification Compliance"
+      ]
+    },
+    "frontend_smoke_suite": {
+      "total_checks": 6,
+      "passed": 6,
+      "failed": 0,
+      "status": "PASSED",
+      "checks": [
+        { "name": "Dashboard Metrics via Nginx Web Proxy", "status": "PASSED" },
+        { "name": "Upstream Defect Trace (Multi-Tier Graph)", "status": "PASSED" },
+        { "name": "Downstream Lot Impact (Blast Radius)", "status": "PASSED" },
+        { "name": "BOM Reconciliation (Missing Consumption Anomaly)", "status": "PASSED" },
+        { "name": "CAPA Verification & Closure Rejection (HTTP 422)", "status": "PASSED" },
+        { "name": "Validation Reports View (11 Rules & 5 Anomalies)", "status": "PASSED" }
+      ]
+    }
+  }
+}
+

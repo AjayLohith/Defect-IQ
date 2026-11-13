@@ -53,6 +53,12 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
 # Docker volume and log artifacts
 *.log
+.docker/
 

@@ -24,10 +24,10 @@ MACHINE_DEFINITIONS = [
 ]
 
 STEP_DEFINITIONS = [
-    (1, "Precision CNC Machining", "FABRICATION", "CNC_MILL", False, 120),
+    (1, "Precision CNC Machining", "FABRICATION", "CNC_MILL", True, 120),
     (2, "Sub-Assembly Insertion", "ASSEMBLY", "SMT_PICK_PLACE", False, 45),
     (3, "Structural Laser Welding", "ASSEMBLY", "LASER_WELDER", True, 90),
-    (4, "Protective Polymer Coating", "TREATMENT", "INJECTION_MOLD", False, 180),
+    (4, "Protective Polymer Coating", "TREATMENT", "INJECTION_MOLD", True, 180),
     (5, "Automated Quality Gate Testing", "TESTING", "OPTICAL_INSPECTOR", True, 60),
     (6, "Final Unit Packaging", "PACKAGING", "OPTICAL_INSPECTOR", False, 30),
 ]

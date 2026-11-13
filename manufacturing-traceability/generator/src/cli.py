@@ -1,17 +1,17 @@
 """CLI entrypoint for deterministic data generator."""
 import argparse
 import os
-import sys
 from generator.src.config import MASTER_SEED, get_profile
 from generator.src.master_data import generate_master_data
 from generator.src.transactions import generate_transactions
-from generator.src.outcomes import generate_baseline_events
+from generator.src.outcomes import generate_outcomes_and_defects
+from generator.src.anomalies import inject_anomalies
 from generator.src.exports import export_all
 from generator.src.manifest import build_manifest
 
 
 def run_generation(profile_name: str = "starter", seed: int = MASTER_SEED, artifacts_dir: str = "artifacts", sql_dir: str = "sql"):
-    """Runs complete deterministic synthetic data generation."""
+    """Runs complete deterministic synthetic data generation including anomalies and ground truth."""
     print(f"=== Starting Deterministic Data Generation ===")
     print(f"Profile: {profile_name}")
     print(f"Master Seed: {seed}")
@@ -28,11 +28,11 @@ def run_generation(profile_name: str = "starter", seed: int = MASTER_SEED, artif
     print("Generating transactions & balance reconciliations...")
     trans = generate_transactions(master, profile, seed)
 
-    # 3. Outcomes & Events
-    print("Generating append-only state events...")
-    events = generate_baseline_events(trans)
+    # 3. Outcomes & Quality Lifecycle
+    print("Generating inspection outcomes, defects, CAPAs, and state events...")
+    outcomes = generate_outcomes_and_defects(master, trans, seed)
 
-    dataset = {
+    baseline_dataset = {
         "products": master["products"],
         "suppliers": master["suppliers"],
         "boms": master["boms"],
@@ -45,31 +45,41 @@ def run_generation(profile_name: str = "starter", seed: int = MASTER_SEED, artif
         "material_consumptions": trans["material_consumptions"],
         "process_executions": trans["process_executions"],
         "inspection_results": trans["inspection_results"],
-        "defects": [],
-        "containment_actions": [],
-        "corrective_actions": [],
-        "capa_verifications": [],
-        "state_events": events,
+        "defects": outcomes["defects"],
+        "containment_actions": outcomes["containment_actions"],
+        "corrective_actions": outcomes["corrective_actions"],
+        "capa_verifications": outcomes["capa_verifications"],
+        "state_events": outcomes["state_events"],
     }
+
+    # 4. Inject 5 Safe Anomalies
+    print("Injecting deliberate safe anomalies and building isolated ground truth...")
+    dataset, ground_truth = inject_anomalies(baseline_dataset)
 
     print(f"Generated {len(dataset['products'])} Products")
     print(f"Generated {len(dataset['suppliers'])} Suppliers")
     print(f"Generated {len(dataset['material_lots'])} Material Lots")
     print(f"Generated {len(dataset['production_orders'])} Production Orders")
     print(f"Generated {len(dataset['inspection_results'])} Inspection Results")
+    print(f"Generated {len(dataset['defects'])} Defects")
+    print(f"Generated {len(dataset['containment_actions'])} Containment Actions")
+    print(f"Generated {len(dataset['corrective_actions'])} Corrective Actions (CAPAs)")
+    print(f"Generated {len(dataset['capa_verifications'])} CAPA Verifications")
     print(f"Generated {len(dataset['state_events'])} State Events")
+    print(f"Generated {len(ground_truth)} Labelled Ground-Truth Anomalies")
 
-    # 4. Exports
-    print("Exporting CSV, JSON, and SQL seed files...")
-    export_all(dataset, artifacts_dir, sql_dir)
+    # 5. Exports
+    print("Exporting CSV, JSON, SQL seed, and Ground Truth files...")
+    export_all(dataset, artifacts_dir, sql_dir, ground_truth)
 
-    # 5. Manifest
+    # 6. Manifest
     print("Building source manifest and SHA-256 checksums...")
     table_counts = {k: len(v) for k, v in dataset.items()}
+    table_counts["ground_truth"] = len(ground_truth)
     manifest = build_manifest(artifacts_dir, seed, profile_name, table_counts)
     print(f"Manifest written with {manifest['file_count']} tracked files.")
     print("=== Generation Completed Successfully ===")
-    return dataset, manifest
+    return dataset, ground_truth, manifest
 
 
 def main():

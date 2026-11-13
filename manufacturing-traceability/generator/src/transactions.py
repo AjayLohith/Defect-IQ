@@ -55,7 +55,7 @@ def generate_transactions(master_data: Dict[str, Any], profile: DatasetProfile, 
         recv_date = (BASE_EPOCH + timedelta(days=-120 + (i % 60))).date()
         expiry_date = (BASE_EPOCH + timedelta(days=240 + (i % 120))).date()
 
-        base_qty = float(round(1000.0 + (i % 10) * 250.0, 4))
+        base_qty = float(round(10000.0 + (i % 10) * 1000.0, 4))
         # Initial lot balances (will be depleted by consumptions)
         lot = {
             "material_lot_id": lot_id,
@@ -165,16 +165,19 @@ def generate_transactions(master_data: Dict[str, Any], profile: DatasetProfile, 
                 if not available_lots:
                     continue
 
-                # Select lot round-robin
-                selected_lot = available_lots[(i + cons_seq) % len(available_lots)]
+                # Select a lot with available balance for this raw material
+                eligible_lots = [l for l in available_lots if l["available_quantity"] > 0]
+                if not eligible_lots:
+                    continue
+                selected_lot = eligible_lots[(i + cons_seq) % len(eligible_lots)]
                 needed_qty = float(round(planned_qty * bl["quantity_per_unit"] * (1.0 + bl["scrap_factor"]), 4))
 
-                # Deduct from lot available quantity
+                # Strictly deduct only up to available balance
                 consume_qty = min(needed_qty, selected_lot["available_quantity"])
                 if consume_qty <= 0:
-                    consume_qty = float(round(needed_qty * 0.1, 4))
+                    continue
 
-                selected_lot["available_quantity"] = float(round(max(0.0, selected_lot["available_quantity"] - consume_qty), 4))
+                selected_lot["available_quantity"] = float(round(selected_lot["available_quantity"] - consume_qty, 4))
                 selected_lot["consumed_quantity"] = float(round(selected_lot["consumed_quantity"] + consume_qty, 4))
                 if selected_lot["available_quantity"] <= 0:
                     selected_lot["lot_status"] = "CONSUMED"

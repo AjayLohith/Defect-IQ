@@ -1,0 +1,47 @@
+[
+  {
+    "anomaly_id": "ANOMALY-001",
+    "anomaly_type": "NONEXISTENT_REPORTED_LOT",
+    "description": "Defect reported with material lot ID LOT-SUP-9999-2026-999999 that does not exist in inventory.",
+    "entity_id": "DEF-2026-000001",
+    "entity_type": "DEFECT",
+    "expected_validator_rule": "VAL_DEFECT_REPORTED_LOT_EXISTS",
+    "injected_details": "Original lot LOT-SUP-0005-2026-001205 cleared to NULL; raw reported set to LOT-SUP-9999-2026-999999."
+  },
+  {
+    "anomaly_id": "ANOMALY-002",
+    "anomaly_type": "MISSING_BOM_CONSUMPTION",
+    "description": "Completed order WO-2026-000001 is missing mandatory BOM line consumption BOML-000001.",
+    "entity_id": "WO-2026-000001",
+    "entity_type": "PRODUCTION_ORDER",
+    "expected_validator_rule": "VAL_ORDER_BOM_CONSUMPTION_COMPLETE",
+    "injected_details": "Removed consumption CONS-000001 for BOM line BOML-000001."
+  },
+  {
+    "anomaly_id": "ANOMALY-003",
+    "anomaly_type": "PREMATURE_CAPA_CLOSURE",
+    "description": "CAPA CAPA-2026-000005 transitioned to CLOSED without a preceding passed CAPAVerification audit.",
+    "entity_id": "CAPA-2026-000005",
+    "entity_type": "CORRECTIVE_ACTION",
+    "expected_validator_rule": "VAL_CAPA_CLOSURE_REQUIRES_VERIFICATION",
+    "injected_details": "Appended StateEvent(new_state='CLOSED') directly to unverified CAPA."
+  },
+  {
+    "anomaly_id": "ANOMALY-004",
+    "anomaly_type": "DEFECT_QUANTITY_EXCEEDS_INSPECTED",
+    "description": "Defect DEF-2026-000002 has defect_quantity=170.0, which exceeds parent inspected_quantity=20.0.",
+    "entity_id": "DEF-2026-000002",
+    "entity_type": "DEFECT",
+    "expected_validator_rule": "VAL_DEFECT_QUANTITY_LE_INSPECTED",
+    "injected_details": "Original defect_qty=1.0 inflated above inspected_qty=20.0."
+  },
+  {
+    "anomaly_id": "ANOMALY-005",
+    "anomaly_type": "BROKEN_TRACEABILITY_CHAIN",
+    "description": "Defect DEF-2026-000003 references ProcessExecution PEX-000001, which belongs to ProductionOrder WO-2026-000001, conflicting with Defect's ProductionOrder WO-2026-000005.",
+    "entity_id": "DEF-2026-000003",
+    "entity_type": "DEFECT",
+    "expected_validator_rule": "VAL_DEFECT_PROCESS_EXECUTION_ORDER_MATCH",
+    "injected_details": "Replaced execution PEX-000027 with cross-order execution PEX-000001."
+  }
+]

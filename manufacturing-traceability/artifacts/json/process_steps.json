@@ -1,7 +1,7 @@
 [
   {
     "allowed_machine_type": "CNC_MILL",
-    "is_quality_gate": false,
+    "is_quality_gate": true,
     "process_step_id": "STEP-0001",
     "standard_cycle_time_seconds": 120,
     "step_name": "Precision CNC Machining",
@@ -28,7 +28,7 @@
   },
   {
     "allowed_machine_type": "INJECTION_MOLD",
-    "is_quality_gate": false,
+    "is_quality_gate": true,
     "process_step_id": "STEP-0004",
     "standard_cycle_time_seconds": 180,
     "step_name": "Protective Polymer Coating",
@@ -43,5 +43,14 @@
     "step_name": "Automated Quality Gate Testing",
     "step_sequence": 5,
     "step_type": "TESTING"
+  },
+  {
+    "allowed_machine_type": "OPTICAL_INSPECTOR",
+    "is_quality_gate": false,
+    "process_step_id": "STEP-0006",
+    "standard_cycle_time_seconds": 30,
+    "step_name": "Final Unit Packaging",
+    "step_sequence": 6,
+    "step_type": "PACKAGING"
   }
 ]

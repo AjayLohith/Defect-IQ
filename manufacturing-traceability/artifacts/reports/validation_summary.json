@@ -1,0 +1,107 @@
+{
+  "checks": {
+    "VAL_BOM_NON_OVERLAP": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_DATE_ORDERING": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_DEFECT_RATE_CALCULATION": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_FOREIGN_KEYS": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_INSPECTION_RECONCILIATION": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_LOT_BALANCE_RECONCILIATION": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_MACHINE_COMPATIBILITY": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_ORDER_QUANTITY_RECONCILIATION": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_PRIMARY_KEYS": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_REQUIRED_FIELDS": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    },
+    "VAL_STATE_EVENT_INTEGRITY": {
+      "error_count": 0,
+      "errors": [],
+      "status": "PASSED"
+    }
+  },
+  "detected_anomalies": [
+    {
+      "anomaly_id": "ANOMALY-001",
+      "anomaly_type": "NONEXISTENT_REPORTED_LOT",
+      "entity_id": "DEF-2026-000001",
+      "entity_type": "DEFECT",
+      "message": "Defect DEF-2026-000001 reported lot LOT-SUP-9999-2026-999999 does not exist in inventory.",
+      "rule": "VAL_DEFECT_REPORTED_LOT_EXISTS"
+    },
+    {
+      "anomaly_id": "ANOMALY-002",
+      "anomaly_type": "MISSING_BOM_CONSUMPTION",
+      "entity_id": "WO-2026-000001",
+      "entity_type": "PRODUCTION_ORDER",
+      "message": "Completed Order WO-2026-000001 is missing consumption for required BOM line BOML-000001.",
+      "rule": "VAL_ORDER_BOM_CONSUMPTION_COMPLETE"
+    },
+    {
+      "anomaly_id": "ANOMALY-003",
+      "anomaly_type": "PREMATURE_CAPA_CLOSURE",
+      "entity_id": "CAPA-2026-000005",
+      "entity_type": "CORRECTIVE_ACTION",
+      "message": "CAPA CAPA-2026-000005 has status CLOSED with zero successful verification records.",
+      "rule": "VAL_CAPA_CLOSURE_REQUIRES_VERIFICATION"
+    },
+    {
+      "anomaly_id": "ANOMALY-004",
+      "anomaly_type": "DEFECT_QUANTITY_EXCEEDS_INSPECTED",
+      "entity_id": "DEF-2026-000002",
+      "entity_type": "DEFECT",
+      "message": "Defect DEF-2026-000002 quantity (170.0) exceeds parent inspected sample (20.0).",
+      "rule": "VAL_DEFECT_QUANTITY_LE_INSPECTED"
+    },
+    {
+      "anomaly_id": "ANOMALY-005",
+      "anomaly_type": "BROKEN_TRACEABILITY_CHAIN",
+      "entity_id": "DEF-2026-000003",
+      "entity_type": "DEFECT",
+      "message": "Defect DEF-2026-000003 references ProcessExecution PEX-000001 belonging to order WO-2026-000001, conflicting with Defect order WO-2026-000005.",
+      "rule": "VAL_DEFECT_PROCESS_EXECUTION_ORDER_MATCH"
+    }
+  ],
+  "summary": {
+    "anomalies_detected": 5,
+    "failed_rules": 0,
+    "passed_rules": 11,
+    "total_rules": 11
+  }
+}

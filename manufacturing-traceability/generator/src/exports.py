@@ -1,4 +1,4 @@
-"""Deterministic CSV, JSON, and SQL export engine."""
+"""Deterministic CSV, JSON, and SQL export engine including segregated ground truth."""
 import csv
 import json
 import os
@@ -35,7 +35,6 @@ def format_sql_value(val: Any) -> str:
         return "TRUE" if val else "FALSE"
     if isinstance(val, (int, float)):
         return str(val)
-    # Strings, dates, timestamps
     s_val = str(val).replace("'", "''")
     return f"'{s_val}'"
 
@@ -49,7 +48,6 @@ def generate_sql_inserts(table_name: str, records: List[Dict[str, Any]]) -> str:
     col_str = ", ".join(columns)
     lines = [f"-- Table: {table_name}"]
 
-    # Batch in groups of 100 for optimal execution
     batch_size = 100
     for i in range(0, len(records), batch_size):
         batch = records[i : i + batch_size]
@@ -62,20 +60,26 @@ def generate_sql_inserts(table_name: str, records: List[Dict[str, Any]]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def export_all(dataset: Dict[str, List[Dict[str, Any]]], artifacts_dir: str, sql_dir: str):
-    """Exports all dataset entities to artifacts/csv, artifacts/json, and sql/seed.sql."""
+def export_all(
+    dataset: Dict[str, List[Dict[str, Any]]],
+    artifacts_dir: str,
+    sql_dir: str,
+    ground_truth: List[Dict[str, Any]] = None,
+):
+    """Exports all dataset entities and segregated ground truth."""
     csv_dir = os.path.join(artifacts_dir, "csv")
     json_dir = os.path.join(artifacts_dir, "json")
     sql_art_dir = os.path.join(artifacts_dir, "sql")
+    gt_dir = os.path.join(artifacts_dir, "ground_truth")
 
     os.makedirs(csv_dir, exist_ok=True)
     os.makedirs(json_dir, exist_ok=True)
     os.makedirs(sql_art_dir, exist_ok=True)
+    os.makedirs(gt_dir, exist_ok=True)
     os.makedirs(sql_dir, exist_ok=True)
 
     sql_statements = ["-- Manufacturing Defect-Traceability Seed Data\n-- Generated deterministically from seed 20261022\n\n"]
 
-    # Table insertion order respecting foreign-key hierarchy
     table_order = [
         ("products", "products"),
         ("suppliers", "suppliers"),
@@ -98,17 +102,18 @@ def export_all(dataset: Dict[str, List[Dict[str, Any]]], artifacts_dir: str, sql
 
     for table_name, data_key in table_order:
         records = dataset.get(data_key, [])
-        # Write CSV
         write_csv(os.path.join(csv_dir, f"{table_name}.csv"), records)
-        # Write JSON
         write_json(os.path.join(json_dir, f"{table_name}.json"), records)
-        # Append SQL
         if records:
             sql_statements.append(generate_sql_inserts(table_name, records))
 
     full_sql = "".join(sql_statements)
-    # Write to sql/seed.sql and artifacts/sql/seed.sql
     with open(os.path.join(sql_dir, "seed.sql"), "w", newline="\n", encoding="utf-8") as f:
         f.write(full_sql)
     with open(os.path.join(sql_art_dir, "seed.sql"), "w", newline="\n", encoding="utf-8") as f:
         f.write(full_sql)
+
+    # Export segregated ground truth
+    if ground_truth is not None:
+        write_csv(os.path.join(gt_dir, "ground_truth.csv"), ground_truth)
+        write_json(os.path.join(gt_dir, "ground_truth.json"), ground_truth)

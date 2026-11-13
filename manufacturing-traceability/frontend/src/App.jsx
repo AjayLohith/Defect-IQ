@@ -1,48 +1,145 @@
-import { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react';
+import Header from './components/Header';
+import DashboardView from './pages/DashboardView';
+import DefectsView from './pages/DefectsView';
+import TraceabilityView from './pages/TraceabilityView';
+import OrdersView from './pages/OrdersView';
+import LotsView from './pages/LotsView';
+import CAPAView from './pages/CAPAView';
+import AdminView from './pages/AdminView';
+import { api } from './api/client';
 
 export default function App() {
-  const [health, setHealth] = useState(null)
-  const [role, setRole] = useState('QUALITY_ENGINEER')
+  const [currentRole, setCurrentRole] = useState('QUALITY_ENGINEER');
+  const [activeTab, setActiveTab] = useState('dashboard');
+  const [health, setHealth] = useState(null);
+
+  // Cross-view navigation state
+  const [traceDefectId, setTraceDefectId] = useState(null);
+  const [traceLotId, setTraceLotId] = useState(null);
 
   useEffect(() => {
-    fetch('/api/v1/health')
-      .then((res) => res.json())
+    api.getHealth()
       .then((data) => setHealth(data))
-      .catch((err) => console.error('API health check error:', err))
-  }, [])
+      .catch((err) => console.error('API health check error:', err));
+  }, []);
+
+  // When role changes, switch to their primary tab if not already on an allowed tab
+  const handleRoleChange = (newRole) => {
+    setCurrentRole(newRole);
+    if (newRole === 'PLANT_OPERATOR' && (activeTab === 'admin' || activeTab === 'capas')) {
+      setActiveTab('orders');
+    } else if (newRole === 'PRODUCTION_PLANNER' && (activeTab === 'admin' || activeTab === 'capas')) {
+      setActiveTab('orders');
+    } else if (newRole === 'IT_ADMIN' && activeTab === 'capas') {
+      setActiveTab('admin');
+    }
+  };
+
+  const handleNavigateToTrace = (defectId) => {
+    setTraceDefectId(defectId);
+    setTraceLotId(null);
+    setActiveTab('traceability');
+  };
+
+  const handleNavigateToBlastRadius = (lotId) => {
+    setTraceLotId(lotId);
+    setTraceDefectId(null);
+    setActiveTab('traceability');
+  };
 
   return (
-    <div className="container">
-      <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingBottom: '1rem', borderBottom: '1px solid var(--border-color)' }}>
-        <div>
-          <h1 style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>TraceFlow // Manufacturing Defect Traceability</h1>
-          <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem' }}>Deterministic defect-traceability & quality assurance engine</p>
-        </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-          <label style={{ fontSize: '0.875rem', color: 'var(--text-secondary)' }}>Demo Role:</label>
-          <select 
-            value={role} 
-            onChange={(e) => setRole(e.target.value)}
-            style={{ padding: '0.5rem', borderRadius: '4px', background: 'var(--bg-secondary)', color: 'var(--text-primary)', border: '1px solid var(--border-color)' }}
+    <div className="app-layout">
+      <Header currentRole={currentRole} onRoleChange={handleRoleChange} health={health} />
+
+      {/* Main Navigation Bar */}
+      <nav className="main-nav-bar">
+        <div className="container nav-tabs-container">
+          <button
+            className={`nav-tab-btn ${activeTab === 'dashboard' ? 'nav-tab-active' : ''}`}
+            onClick={() => setActiveTab('dashboard')}
           >
-            <option value="PLANT_OPERATOR">Plant Operator</option>
-            <option value="QUALITY_ENGINEER">Maintenance/Quality Engineer</option>
-            <option value="PRODUCTION_PLANNER">Production Planner</option>
-            <option value="IT_ADMIN">OT/IT Administrator</option>
-          </select>
-        </div>
-      </header>
+            Executive Dashboard
+          </button>
+          <button
+            className={`nav-tab-btn ${activeTab === 'defects' ? 'nav-tab-active' : ''}`}
+            onClick={() => setActiveTab('defects')}
+          >
+            Defects & Containment
+          </button>
+          <button
+            className={`nav-tab-btn ${activeTab === 'traceability' ? 'nav-tab-active' : ''}`}
+            onClick={() => setActiveTab('traceability')}
+          >
+            Traceability Workbench
+          </button>
+          <button
+            className={`nav-tab-btn ${activeTab === 'orders' ? 'nav-tab-active' : ''}`}
+            onClick={() => setActiveTab('orders')}
+          >
+            Production & BOM
+          </button>
+          <button
+            className={`nav-tab-btn ${activeTab === 'lots' ? 'nav-tab-active' : ''}`}
+            onClick={() => setActiveTab('lots')}
+          >
+            Material Lots
+          </button>
 
-      <main style={{ marginTop: '2rem' }}>
-        <div style={{ background: 'var(--bg-secondary)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--border-color)' }}>
-          <h2 style={{ fontSize: '1.25rem', marginBottom: '1rem' }}>System Foundation Status</h2>
-          <p>Scaffold initialized successfully. Ready for Phase 3 schema contracts and generator foundation.</p>
-          <div style={{ marginTop: '1rem', padding: '1rem', background: 'var(--bg-tertiary)', borderRadius: '4px', fontFamily: 'monospace', fontSize: '0.875rem' }}>
-            API Status: {health ? JSON.stringify(health) : 'Connecting to API...'}
-          </div>
+          {(currentRole === 'QUALITY_ENGINEER' || currentRole === 'IT_ADMIN') && (
+            <button
+              className={`nav-tab-btn ${activeTab === 'capas' ? 'nav-tab-active' : ''}`}
+              onClick={() => setActiveTab('capas')}
+            >
+              Corrective Actions (CAPA)
+            </button>
+          )}
+
+          {currentRole === 'IT_ADMIN' && (
+            <button
+              className={`nav-tab-btn ${activeTab === 'admin' ? 'nav-tab-active' : ''}`}
+              onClick={() => setActiveTab('admin')}
+            >
+              OT / IT System Integrity
+            </button>
+          )}
         </div>
+      </nav>
+
+      {/* Main Content Area */}
+      <main className="container app-content">
+        {activeTab === 'dashboard' && (
+          <DashboardView
+            onNavigateToDefects={() => setActiveTab('defects')}
+            onNavigateToTrace={handleNavigateToTrace}
+          />
+        )}
+        {activeTab === 'defects' && (
+          <DefectsView
+            currentRole={currentRole}
+            onNavigateToTrace={handleNavigateToTrace}
+          />
+        )}
+        {activeTab === 'traceability' && (
+          <TraceabilityView
+            initialDefectId={traceDefectId}
+            initialLotId={traceLotId}
+          />
+        )}
+        {activeTab === 'orders' && <OrdersView />}
+        {activeTab === 'lots' && (
+          <LotsView onNavigateToBlastRadius={handleNavigateToBlastRadius} />
+        )}
+        {activeTab === 'capas' && <CAPAView currentRole={currentRole} />}
+        {activeTab === 'admin' && <AdminView health={health} />}
       </main>
-    </div>
-  )
-}
 
+      <footer className="app-footer">
+        <div className="container footer-content">
+          <span>TraceFlow // Deterministic Manufacturing Quality & Defect Traceability Engine</span>
+          <span>Role-Based Demo Mode (Production Authentication Out of Scope)</span>
+        </div>
+      </footer>
+    </div>
+  );
+}
